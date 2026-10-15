@@ -60,7 +60,7 @@ Karakter Kristen dibahas melalui nilai kasih, kejujuran, keadilan, penguasaan di
 
 ---
 
-![](why-i-am-still-a-christian.png)
+![](files/why-i-am-still-a-christian.png)
 
 Buku _Why I Am Still a Christian_ karya Hans Küng mengeksplorasi relevansi iman Kristen di tengah krisis nilai masyarakat modern, memberikan kritik tajam terhadap institusi gereja, dan menyerukan persatuan ekumenis yang konkret.
 
