@@ -14,14 +14,11 @@ Küng juga memberikan sorotan tajam pada isu perpecahan denominasi, mempertanyak
 
 ## Disorientation and Christian Commitment
 
-
 - **Krisis Nilai dan Runtuhnya Otoritas:** Masyarakat modern sedang mengalami krisis nilai yang sangat mendalam sejak pemberontakan kaum muda pada akhir 1960-an. Otoritas dan institusi tradisional seperti negara, gereja, sekolah, dan keluarga tidak lagi diterima tanpa dipertanyakan.
     
 - **Dampak Kebebasan yang Berlebihan:** Proses liberalisasi sering kali menghancurkan tabu dan membuat moralitas terasa relatif. Hal ini mengakibatkan banyak orang, terutama generasi muda, merasa kehilangan makna hidup sehingga berpaling pada kenakalan, sekte agama ekstrem, atau fanatisme politik.
     
 - **Kegagalan Rasionalitas Murni:** Sangat sulit untuk membuktikan perlunya nilai-nilai moral (seperti mengapa keadilan lebih baik dari keegoisan, atau kedamaian lebih baik dari perang) hanya dengan mengandalkan akal atau rasionalitas filsafat semata.
-    
-- **Aturan vs. Orientasi Fundamental:** Masyarakat saat ini memiliki banyak aturan, regulasi, dan perencanaan, tetapi semua itu tidak sama dengan memiliki sistem nilai. Semakin banyak aturan yang ada, manusia justru semakin merasa disorientasi dan mendambakan komitmen terhadap nilai-nilai yang esensial.
     
 - **Kompleksitas Masalah Modern:** Perubahan sosial terjadi sangat cepat, membawa masalah etis berskala besar seperti energi nuklir, rekayasa genetika, dan isu lingkungan, yang membebani pemahaman individu.
     
