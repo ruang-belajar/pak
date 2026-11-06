@@ -1,8 +1,30 @@
 # Pengantar Pendidikan Agama Kristen di Perguruan Tinggi
 
-> Mengapa Belajar Agama di Perguruan Tinggi ❓
+> Sedikit pengetahuan tentang Allah jauh lebih berharga daripada banyak pengetahuan tentang hal lain. Namun, mengenal Allah bukanlah sebuah pencapaian instan; ini adalah sebuah hubungan yang membutuhkan pengalaman, ujian, dan pengenalan yang berjalan seiring dengan seluruh sisa hidup kita (J.I. Packer)
 
-Pendidikan Agama Kristen adalah proses pembelajaran yang menolong peserta didik memahami iman Kristen, menafsirkan dasar-dasarnya, dan merefleksikan implikasinya dalam kehidupan. Dalam konteks perguruan tinggi, pembelajaran ini mencakup pengetahuan, penalaran, sikap, dan penerapan nilai.
+Perjalanan untuk mengenal Allah adalah sesuatu yang dikerjakan seumur hidup. Sejak SD, SMP, SMA kita belajar agama. Masuk perguruan tinggi, kita pun belajar agama. Mengapa? Ini karena beberapa hal:
+
+**🔹 Mengenal Allah adalah sebuah panggilan**
+
+> 📖 "Sebab Aku menyukai kasih setia, dan bukan korban sembelihan, dan menyukai pengenalan akan Allah, lebih dari pada korban-korban bakaran."  (Hosea 6:6)
+
+**🔹 Allah yang tak terbatas**
+
+> 📖 "Dapatkah engkau memahami hakikat Allah, menyelami batas-batas kekuasaan Yang Mahakuasa?" (Ayub 11: 7)
+
+Tidak seorang pantas mengatakan "saya sudah mengerti Allah sepenuhnya". Memahami Allah yang tidak terbatas dalam pikiran kita yang terbatas adalah sesuatu yang tidak mungkin. Ini sebabnya kita terus berusaha mengenal Dia, seumur hidup kita.
+
+> Si comprehendis, non est Deus (If you comprehend [Him], He is not God) - (St. Augustine)
+
+**🔹 Pergumulan Relevansi Iman dengan Realita**
+
+Pergumulan anak SD, berbeda dengan pergumulan siswa SMP. Pergumulan siswa SMP berbeda dengan remaja SMA. Begitu juga pergumulan remaja SMA berbeda dengan mahasiswa.
+
+Kita bertumbuh secara bertahap dalam mengenal Allah. Pertama lewat hal-hal praktis. Pada saat SD, kita diajar doa-doa yang dihapal, tata ibadah yang baku. SMP & SMA kita mulai diajar untuk *mengerti* kita melakukan *ini* dan *itu*, dan tahu *mengapa* kita percaya *ini* dan *itu*.
+
+Masuk ke jenjang perguruan tinggi, mahasiswa lebih terekspose untuk berpikir kritis terhadap ide-ide dalam bidang studinya, tapi tidak terbatas pada bidang studi yang ditekuninya, pemikiran kritis itu juga akan bersinggungan dengan iman mereka. Mereka mencari relevansi iman mereka dengan studi yang dijalani, mencoba hubungan antara iman dengan realita empiris tampak tidak bisa ditemukan koherensinya.
+
+Dengan demikian, pelajaran agama di perguruan tinggi memberikan wadah bagi mahasiswa untuk memperbincangkan iman mereka. Menemukan jawaban berbagai pertanyaan keraguan yang menyerang iman mereka. Sehingga hal yang diharapkan dari pembelajaran agama di perguruan tinggi adalah mahasiswa semakin mengenal Allah, semakin iman mereka diteguhkan, semakin mengenal Allah, semakin menjalani hidup yang dikuduskan.
 
 ---
 
@@ -21,15 +43,11 @@ Secara struktural, perbandingan capaian pembelajarannya dapat dilihat sebagai be
 | **Wawasan Kemajemukan**      | Fokus pada penguatan identitas internal (_in-group feeling_).              | Eksplorasi resolusi konflik, teologi kerukunan, dan keberagamaan di ruang publik.  |
 
 ---
-## Iman dan kehidupan akademik
+## Mengapa Saya Masih menjadi seorang Kristen
 
-Iman tidak menggantikan metode ilmiah dalam penelitian. Sebaliknya, refleksi iman dapat membantu mahasiswa mengajukan pertanyaan mengenai tujuan penggunaan ilmu, tanggung jawab moral, dan dampak pengetahuan terhadap manusia.
+📚 Baca: [Hans Kung - Why I am Still a Christian](why-i-am-still-a-christian.md) 
 
----
-## Pertanggungjawaban Iman
 
-📚 Baca:
-- [Hans Kung - Why I am Still a Christian](why-i-am-still-a-christian.md) 
 
 
 
