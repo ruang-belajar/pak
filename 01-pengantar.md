@@ -14,7 +14,7 @@ Perjalanan untuk mengenal Allah adalah sesuatu yang dikerjakan seumur hidup. Sej
 
 Tidak seorang pantas mengatakan "saya sudah mengerti Allah sepenuhnya". Memahami Allah yang tidak terbatas dalam pikiran kita yang terbatas adalah sesuatu yang tidak mungkin. Ini sebabnya kita terus berusaha mengenal Dia, seumur hidup kita.
 
-> Si comprehendis, non est Deus (If you comprehend [Him], He is not God) - (St. Augustine)
+> Si comprehendis, non est Deus (*If you comprehend [Him], He is not God*) - (St. Augustine)
 
 **🔹 Pergumulan Relevansi Iman dengan Realita**
 
@@ -22,7 +22,7 @@ Pergumulan anak SD, berbeda dengan pergumulan siswa SMP. Pergumulan siswa SMP be
 
 Kita bertumbuh secara bertahap dalam mengenal Allah. Pertama lewat hal-hal praktis. Pada saat SD, kita diajar doa-doa yang dihapal, tata ibadah yang baku. SMP & SMA kita mulai diajar untuk *mengerti* kita melakukan *ini* dan *itu*, dan tahu *mengapa* kita percaya *ini* dan *itu*.
 
-Masuk ke jenjang perguruan tinggi, mahasiswa lebih terekspose untuk berpikir kritis terhadap ide-ide dalam bidang studinya, tapi tidak terbatas pada bidang studi yang ditekuninya, pemikiran kritis itu juga akan bersinggungan dengan iman mereka. Mereka mencari relevansi iman mereka dengan studi yang dijalani, mencoba hubungan antara iman dengan realita empiris tampak tidak bisa ditemukan koherensinya.
+Masuk ke jenjang perguruan tinggi, mahasiswa lebih perpapar kepada pemikiran kritis terhadap ide-ide dalam bidang studinya, tapi tidak terbatas pada bidang studi yang ditekuninya, pemikiran kritis itu juga akan bersinggungan dengan iman mereka. Mereka mencari relevansi iman mereka dengan studi yang dijalani, mencoba hubungan antara iman dengan realita empiris tampak tidak bisa ditemukan koherensinya.
 
 Dengan demikian, pelajaran agama di perguruan tinggi memberikan wadah bagi mahasiswa untuk memperbincangkan iman mereka. Menemukan jawaban berbagai pertanyaan keraguan yang menyerang iman mereka. Sehingga hal yang diharapkan dari pembelajaran agama di perguruan tinggi adalah mahasiswa semakin mengenal Allah, semakin iman mereka diteguhkan, semakin mengenal Allah, semakin menjalani hidup yang dikuduskan.
 
@@ -45,7 +45,27 @@ Secara struktural, perbandingan capaian pembelajarannya dapat dilihat sebagai be
 ---
 ## Mengapa Saya Masih menjadi seorang Kristen
 
-📚 Baca: [Hans Kung - Why I am Still a Christian](why-i-am-still-a-christian.md) 
+Salah satu pertanyaan yang saya mau bawa untuk mengantar diskusi kita adalah pertanyaan *Mengapa kamu masih menjadi seorang Kristen?*
+
+- Karena sudah nyaman dengan keadaan yang sekarang?
+	- males mikir
+	- ... pokoknya Kristen bener!
+- Karena saya sudah mengerti apa yang saya percaya?
+	- mengerti apa yang saya percaya
+	- Pernahkah pengertian ini diuji?
+		- Menjawab pertanyaan?
+		- Menerangkan/menyaksikan pada orang lain?
+
+
+Buku **Why I Am Still a Christian** (judul asli Jerman: _Woran man sich halten kann_) karya teolog Katolik terkemuka **Hans Küng** merupakan sebuah refleksi ringkas namun mendalam mengenai relevansi iman Kristiani di tengah krisis nilai masyarakat modern. Buku ini diterbitkan pertama kali pada tahun 1985 di Zurich dan kemudian diterjemahkan ke dalam bahasa Inggris pada tahun 1987. 
+
+Hans Küng menulis buku ini dilatarbelakangi oleh kebutuhan praktis dan kepedulian terhadap pembaca awam:
+
+- **Penyederhanaan Karya Teologi Besar**: Sebelum menerbitkan buku ini, Hans Küng telah menulis buku-buku teologi utama yang sangat tebal dan akademis, seperti _On Being a Christian_, _Does God Exist?_, dan _Eternal Life?_. Küng menyadari bahwa buku-buku besar tersebut sangat tebal (_dauntingly large_) dan menggunakan bahasa ilmiah yang rumit, sehingga banyak orang tidak sempat membacanya sampai selesai.
+- **Menjawab Kesibukan & Keraguan Pembaca**: Masyarakat awam yang sibuk dalam kehidupan sehari-hari tetap memiliki kepedulian besar terhadap situasi Gereja dan masyarakat. Mereka ingin mengetahui secara jelas apa yang masih dapat diandalkan dan dipegang oleh seorang Kristen yang diliputi keraguan saat ini.
+- **Menyediakan Panduan Iman yang Ringkas**: Melalui buku kecil ini, Küng berusaha menyajikan inti pemikirannya mengenai komitmen Kristiani secara sederhana dan padat agar dapat dipahami oleh pembaca awam maupun mereka yang tidak terbiasa membaca karya teologi ilmiah
+
+📚 [Synopsis: Hans Kung - Why I am Still a Christian](why-i-am-still-a-christian.md) 
 
 
 
