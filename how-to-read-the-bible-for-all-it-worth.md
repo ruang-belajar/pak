@@ -1,6 +1,6 @@
 # How to Read the Bible for All Its Worth
 
-![209](02-book-1.png)
+![209](files/02-book-1.png)
 
 ## I. Pendahuluan & Prinsip Dasar Penafsiran (_Hermeneutical Foundations_)
 

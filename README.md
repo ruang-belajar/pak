@@ -1,4 +1,4 @@
-![](header.png)
+![](files/header.png)
 
 # Pendidikan Agama Kristen
 
