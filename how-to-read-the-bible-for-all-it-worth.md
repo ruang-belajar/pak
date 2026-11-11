@@ -6,6 +6,7 @@
 
 - **Sifat Ganda Kitab Suci (_The Dual Nature of Scripture_)**:
     - Alkitab adalah **Firman Allah yang disampaikan melalui kata-kata manusia dalam sejarah** (_Word of God given in human words in history_).
+	    - 🧑‍🏫 Dalam konteks teologi Kristen, "Alkitab adalah Firman Allah" bukan berarti Alkitab disampaikan dengan cara di-*dikte*
     - Karena Alkitab adalah Firman Allah, ia memiliki **relevansi kekal** (_eternal relevance_) bagi semua orang di segala zaman.
     - Karena disampaikan dalam bahasa dan sejarah manusia, setiap dokumen Alkitab memiliki **kekhususan sejarah** (_historical particularity_), yaitu terikat pada konteks waktu, bahasa, dan budaya saat ditulis.
 
@@ -25,14 +26,14 @@
     - Karena Alkitab asli ditulis dalam bahasa Ibrani, Aram, dan Yunani, pembaca terjemahan pada dasarnya sudah terlibat dalam proses penafsiran melalui pilihan-pilihan penerjemah.
 
 - **Tiga Teori Utama Penerjemahan**:    
-    1. **Kesepadanan Formal (_Formal Equivalence / Literal_)**: Berusaha mempertahankan bentuk kata dan tata bahasa asli sejauh mungkin ke dalam bahasa penerima.
+    1. **Kesepadanan Formal (_Formal Equivalence / Literal_)**: Berusaha mempertahankan kata, susunan, dan bentuk kalimat bahasa sumber sedekat mungkin. Pendekatan ini membantu pembaca melihat bentuk asli, tetapi hasilnya kadang terasa kaku atau kurang alami.
         - _Contoh_: NASB, KJV, NKJV.
         - _Kelemahan_: Sering menghasilkan bahasa yang kaku atau ambigu.
-    2. **Kesepadanan Fungsional (_Functional Equivalence / Dynamic_)**: Berusaha mempertahankan makna asli tetapi menyampaikannya dalam struktur dan idiom bahasa sehari-hari yang alami.
+    2. **Kesepadanan Fungsional (_Functional Equivalence / Dynamic_)**: Mengutamakan penyampaian makna dan dampak yang sepadan dalam bahasa sasaran. Susunan atau ungkapan dapat diubah agar lebih mudah dipahami, sehingga pembaca perlu ingat bahwa ada unsur penafsiran dari penerjemah.
         - _Contoh_: TNIV, NIV, GNB, NAB.
         - _Kelebihan_: Sangat direkomendasikan sebagai terjemahan utama untuk studi dan pembacaan harian.
-    3. **Terjemahan Bebas (_Free Translation / Paraphrase_)**: Menerjemahkan gagasan atau ide utama tanpa terikat pada kata-kata asli, terkadang mendekati tafsiran.
-        - _Contoh_: The Message, The Living Bible.
+	    1. **Terjemahan Bebas (_Free Translation / Paraphrase_)**: Menyampaikan kembali pesan dengan bahasa yang lebih bebas dan kontemporer. Ini dapat membantu pembacaan awal, tetapi lebih banyak melibatkan penjelasan dan pilihan penulis, sehingga sebaiknya dibandingkan dengan terjemahan yang lebih dekat pada teks sumber .
+	        - _Contoh_: The Message, The Living Bible.
 
 ---
 
@@ -64,10 +65,10 @@ Alkitab terdiri dari berbagai jenis sastra (genre), dan setiap genre memiliki at
 
 ### 4. Kitab-Kitab Injil (_The Gospels_)
 
-- **Dokumen Dua Tingkat (_Two-Level Documents_)**: Mengandung rekaman sejarah hidup dan sabda Yesus (_konteks Yesus_), sekaligus disusun oleh para penginjil untuk kebutuhan jemaat pada zaman mereka (_konteks penginjil_).
-- **Cara Membaca Injil**:
-    - **Berpikir Horizontal**: Membandingkan kisah paralel di antara Injil-Injil lain untuk mengapresiasi keunikan pesan masing-masing penulis.
-    - **Berpikir Vertikal**: Memahami makna sabda/peristiwa dalam konteks sejarah Yesus dan konteks penulisan penginjil.
+- Mengandung rekaman sejarah hidup dan sabda Yesus (_konteks Yesus_), sekaligus disusun oleh para penginjil untuk kebutuhan jemaat pada zaman mereka (_konteks penginjil_).
+- Membandingkan kisah paralel di antara Injil-Injil lain untuk mengapresiasi keunikan pesan masing-masing penulis. Gunakan keselarasan antarinjil untuk memperkaya pemahaman, sambil tetap menghormati sudut pandang dan susunan tiap Injil.
+- Pahami makna sabda/peristiwa dalam konteks sejarah Yesus dan konteks penulisan penginjil.
+- Jangan mengubah setiap detail narasi menjadi simbol atau aturan tanpa petunjuk tekstual.
 - **Kunci Teologis**: Mengerti konsep **Kerajaan Allah** (_Kingdom of God_) yang bersifat _already / not yet_ (sudah hadir dalam Yesus, tetapi belum digenapi secara sempurna).
 
 ### 5. Perumpamaan (_The Parables_)
