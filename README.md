@@ -4,7 +4,7 @@
 
 1. [Pengantar PAK di perguruan tinggi](01-pengantar.md)
 2. [Alkitab dan hermeneutika dasar](02-alkitab-dan-hermeneutika.md)
-3. Allah dan Tritunggal
+3. [Allah dan Tritunggal](03-allah-tritunggal.md)
 4. Penciptaan, manusia, dan dosa
 5. Pribadi dan karya Yesus Kristus
 6. Keselamatan dan anugerah
