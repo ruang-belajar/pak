@@ -27,10 +27,10 @@
 
 - **Tiga Teori Utama Penerjemahan**:    
     1. **Kesepadanan Formal (_Formal Equivalence / Literal_)**: Berusaha mempertahankan kata, susunan, dan bentuk kalimat bahasa sumber sedekat mungkin. Pendekatan ini membantu pembaca melihat bentuk asli, tetapi hasilnya kadang terasa kaku atau kurang alami.
-        - _Contoh_: NASB, KJV, NKJV.
+        - _Contoh_: NASB, KJV, NKJV. Indonesia: TB, TB2
         - _Kelemahan_: Sering menghasilkan bahasa yang kaku atau ambigu.
     2. **Kesepadanan Fungsional (_Functional Equivalence / Dynamic_)**: Mengutamakan penyampaian makna dan dampak yang sepadan dalam bahasa sasaran. Susunan atau ungkapan dapat diubah agar lebih mudah dipahami, sehingga pembaca perlu ingat bahwa ada unsur penafsiran dari penerjemah.
-        - _Contoh_: TNIV, NIV, GNB, NAB.
+        - _Contoh_: TNIV, NIV, GNB, NAB. Indonesia: FAYH, BIS.
         - _Kelebihan_: Sangat direkomendasikan sebagai terjemahan utama untuk studi dan pembacaan harian.
 	    1. **Terjemahan Bebas (_Free Translation / Paraphrase_)**: Menyampaikan kembali pesan dengan bahasa yang lebih bebas dan kontemporer. Ini dapat membantu pembacaan awal, tetapi lebih banyak melibatkan penjelasan dan pilihan penulis, sehingga sebaiknya dibandingkan dengan terjemahan yang lebih dekat pada teks sumber .
 	        - _Contoh_: The Message, The Living Bible.
@@ -48,6 +48,7 @@ Alkitab terdiri dari berbagai jenis sastra (genre), dan setiap genre memiliki at
 - **Aturan Kunci Eksegesis**:
     - Rekonstruksi latar belakang sejarah penerima dan masalah yang dihadapi.
     - **Berpikir dalam unit paragraf (_think paragraphs_)**: Lacak alur pemikiran penulis baris demi baris dan tanyakan _"Apa poin utama dari paragraf ini?"_.
+	    - 👨‍🏫 Hindari membahas ayat, terlepas dari topik yang dibicarakan paragraf.
 ### 2. Narasi Perjanjian Lama (_OT Narratives_)
 
 - **Definisi**: Cerita sejarah nyata yang bertujuan memberi makna dan arah, di mana **Allah adalah Pahlawan Utama (_Protagonist_)**.
