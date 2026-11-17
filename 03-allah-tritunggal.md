@@ -1,6 +1,6 @@
 # ALLAH DAN DOKTRIN TRITUNGGAL
 
-### 2. Pendahuluan
+## 1. Pendahuluan
 
 Pembahasan mengenai Allah merupakan salah satu dasar utama dalam teologi Kristen. Seluruh ajaran Kristen, termasuk penciptaan, keselamatan, kehidupan manusia, etika, dan doktrin Tritunggal, berhubungan dengan pemahaman mengenai siapa Allah.
 
@@ -9,57 +9,40 @@ Dalam iman Kristen, Allah bukan sekadar kekuatan supernatural, energi alam semes
 Pemahaman mengenai Allah tidak hanya berkaitan dengan pertanyaan apakah Allah ada, tetapi juga mencakup pertanyaan yang lebih mendalam:
 
 - Siapakah Allah?
-    
 - Bagaimana manusia dapat mengenal Allah?
-    
 - Apa karakteristik dan sifat-sifat Allah?
-    
 - Bagaimana Allah berhubungan dengan alam semesta?
-    
 - Bagaimana Allah berhubungan dengan kehidupan manusia?
-    
 
 Louis Berkhof dan Millard J. Erickson memberikan kontribusi penting dalam menjelaskan konsep Allah melalui pendekatan teologi sistematika. Keduanya menempatkan Allah sebagai pusat pembahasan teologi, tetapi memiliki penekanan dan cara penyajian yang dapat saling melengkapi.
 
-### 3. Pengertian Allah Menurut Teologi Kristen
+## 2. Pengertian Allah Menurut Teologi Kristen
 
-#### 3.1 Allah sebagai Pribadi Ilahi
+#### 2.1 Allah sebagai Pribadi Ilahi
 
 Dalam teologi Kristen, Allah dipahami sebagai Pribadi ilahi yang memiliki kesadaran, kehendak, pengetahuan, dan kemampuan untuk berelasi.
 
 Pengertian Allah sebagai Pribadi tidak berarti Allah memiliki tubuh fisik seperti manusia. Istilah pribadi digunakan untuk menjelaskan bahwa Allah bukan kekuatan yang tidak memiliki kesadaran atau kehendak.
 
 Allah dapat:
-
 - Mengetahui segala sesuatu.
-    
 - Menghendaki dan menetapkan tujuan.
-    
 - Mengasihi manusia.
-    
 - Menyatakan kehendak-Nya.
-    
 - Berkomunikasi dengan manusia.
-    
 - Bertindak dalam sejarah dan kehidupan ciptaan.
-    
 
 Hal ini dapat ditemukan dalam berbagai bagian Alkitab.
 
 **Referensi Alkitab:**
-
 - Keluaran 3:14: Allah menyatakan identitas-Nya kepada Musa.
-    
 - Mazmur 139:1–6: Allah mengetahui kehidupan manusia.
-    
 - Yohanes 3:16: Allah menyatakan kasih-Nya kepada dunia.
-    
 - Yeremia 29:11: Allah memiliki rancangan bagi umat-Nya.
-    
 
 Dengan demikian, Allah dalam iman Kristen bukan sekadar prinsip filosofis, melainkan Pribadi ilahi yang menyatakan diri dan berelasi dengan ciptaan-Nya.
 
-#### 3.2 Allah sebagai Roh
+### 2.2 Allah sebagai Roh
 
 Salah satu karakteristik mendasar Allah adalah bahwa Allah merupakan Roh.
 
@@ -68,19 +51,14 @@ Yohanes 4:24 menyatakan bahwa Allah adalah Roh dan bahwa penyembah-penyembah-Nya
 Pernyataan ini menunjukkan bahwa keberadaan Allah tidak dibatasi oleh bentuk fisik, ruang, atau materi sebagaimana keberadaan manusia.
 
 Implikasinya:
-
 1. Allah tidak dapat dibatasi oleh gambaran fisik manusia.
-    
 2. Allah tidak bergantung pada materi untuk keberadaan-Nya.
-    
 3. Allah tidak dapat dipahami sepenuhnya melalui pancaindra manusia.
-    
 4. Hubungan manusia dengan Allah tidak hanya bersifat lahiriah, tetapi juga melibatkan iman dan kehidupan rohani.
-    
 
 Penting untuk dipahami bahwa ketika Alkitab menggunakan gambaran seperti tangan Allah, mata Allah, atau wajah Allah, ungkapan tersebut sering kali menggunakan bahasa antropomorfis, yaitu bahasa manusia untuk menjelaskan tindakan atau sifat Allah.
 
-#### 3.3 Allah sebagai Pencipta dan Pemelihara
+### 2.3 Allah sebagai Pencipta dan Pemelihara
 
 Dalam iman Kristen, Allah merupakan sumber keberadaan seluruh ciptaan.
 
@@ -102,9 +80,9 @@ Dengan demikian, hubungan Allah dengan dunia tidak berhenti pada peristiwa penci
 
 ---
 
-### 4. Konsep Keberadaan Allah
+## 3. Konsep Keberadaan Allah
 
-#### 4.1 Allah Ada dengan Sendirinya (Self-Existence)
+### 3.1 Allah Ada dengan Sendirinya (Self-Existence)
 
 Dalam teologi Kristen, Allah tidak bergantung pada sesuatu di luar diri-Nya untuk keberadaan-Nya.
 
@@ -115,17 +93,12 @@ Berbeda dengan manusia yang keberadaannya bergantung pada berbagai faktor, Allah
 Keluaran 3:14 menggambarkan Allah menyatakan diri kepada Musa dengan ungkapan "AKU ADALAH AKU".
 
 Implikasi konsep ini:
-
 - Allah tidak memiliki awal keberadaan.
-    
 - Allah tidak bergantung pada alam semesta.
-    
 - Allah merupakan sumber keberadaan seluruh ciptaan.
-    
 - Keberadaan Allah tidak ditentukan oleh pengakuan manusia.
-    
 
-#### 4.2 Allah Bersifat Kekal (Eternal)
+### 3.2 Allah Bersifat Kekal (Eternal)
 
 Allah tidak dibatasi oleh waktu sebagaimana manusia dan seluruh ciptaan.
 
@@ -135,7 +108,7 @@ Kekekalan Allah menunjukkan bahwa Allah tidak mengalami proses menjadi ada, bert
 
 Implikasi bagi manusia adalah bahwa kehidupan manusia berlangsung dalam keterbatasan waktu, sedangkan Allah memiliki keberadaan yang kekal.
 
-#### 4.3 Allah Tidak Berubah (Immutable)
+### 3.3 Allah Tidak Berubah (Immutable)
 
 Ketidakberubahan Allah berarti karakter, kesetiaan, dan keberadaan-Nya tidak mengalami perubahan sebagaimana makhluk ciptaan.
 
@@ -145,7 +118,7 @@ Konsep ini tidak berarti Allah tidak bertindak atau tidak berinteraksi dengan ma
 
 Contohnya, Allah tetap setia terhadap janji-Nya sekalipun manusia mengalami perubahan perilaku.
 
-#### 4.4 Allah Mahahadir (Omnipresent)
+### 3.4 Allah Mahahadir (Omnipresent)
 
 Allah tidak dibatasi oleh lokasi geografis atau ruang tertentu.
 
@@ -155,26 +128,21 @@ Mahahadir berarti Allah hadir di seluruh ciptaan tanpa harus dibatasi oleh tempa
 
 Konsep ini tidak berarti alam semesta adalah Allah. Allah tetap berbeda dari ciptaan-Nya, sekalipun kehadiran dan pemeliharaan-Nya menjangkau seluruh ciptaan.
 
-#### 4.5 Allah Mahatahu (Omniscient)
+### 3.5 Allah Mahatahu (Omniscient)
 
 Allah memiliki pengetahuan yang sempurna dan tidak terbatas.
 
 Mazmur 147:5 menyatakan bahwa pengertian Allah tidak terbilang.
 
 Pengetahuan Allah mencakup:
-
 - Seluruh peristiwa masa lalu.
-    
 - Keadaan yang sedang berlangsung.
-    
 - Segala sesuatu yang diketahui dan tersembunyi dari manusia.
-    
 - Pikiran dan motivasi manusia.
-    
 
 Konsep ini menunjukkan bahwa tidak ada sesuatu pun yang tersembunyi dari pengetahuan Allah.
 
-#### 4.6 Allah Mahakuasa (Omnipotent)
+### 3.6 Allah Mahakuasa (Omnipotent)
 
 Allah memiliki kuasa yang tidak terbatas oleh kemampuan makhluk ciptaan.
 
@@ -185,8 +153,7 @@ Kemahakuasaan Allah tidak berarti Allah melakukan tindakan yang bertentangan den
 Dengan demikian, kuasa Allah selalu konsisten dengan sifat dan kesempurnaan-Nya.
 
 ---
-
-### 5. Sifat-Sifat Allah
+## 4. Sifat-Sifat Allah
 
 Dalam teologi sistematika, sifat-sifat Allah digunakan untuk menjelaskan karakter dan kesempurnaan keberadaan Allah.
 
@@ -224,7 +191,7 @@ Karakter dan kesetiaan Allah tidak berubah.
 
 Referensi: Maleakhi 3:6.
 
-#### 5.2 Sifat-Sifat Moral Allah
+### 4.2 Sifat-Sifat Moral Allah
 
 **a. Kasih (Love)**
 
@@ -264,11 +231,11 @@ Referensi: Bilangan 23:19.
 
 ---
 
-### 6. Pemikiran Louis Berkhof dan Millard J. Erickson
+## 5. Pemikiran Louis Berkhof dan Millard J. Erickson
 
 Kedua teolog ini memberikan penjelasan mengenai Allah melalui pendekatan teologi sistematika.
 
-#### 6.1 Perspektif Louis Berkhof
+### 5.1 Perspektif Louis Berkhof
 
 Dalam _Systematic Theology_, khususnya bagian tentang doktrin Allah, Louis Berkhof menempatkan Allah sebagai keberadaan ilahi yang tidak dapat dipahami secara menyeluruh oleh pikiran manusia.
 
@@ -287,41 +254,6 @@ Berkhof menekankan beberapa aspek:
 
 Bagi Berkhof, pembahasan mengenai Allah perlu didasarkan pada penyataan Allah, bukan semata-mata spekulasi filosofis manusia.
 
-#### 6.2 Perspektif Millard J. Erickson
-
-Dalam _Christian Theology_, Millard J. Erickson membahas Allah sebagai dasar utama bagi keseluruhan sistem teologi Kristen.
-
-Erickson memberikan perhatian pada beberapa aspek:
-
-1. **Keberadaan Allah.** Pembahasan mengenai realitas keberadaan Allah dan dasar keyakinan Kristen.
-    
-2. **Pengenalan akan Allah.** Manusia dapat mengenal Allah melalui penyataan-Nya, meskipun pengetahuan manusia tidak pernah mencakup keseluruhan keberadaan Allah.
-    
-3. **Sifat dan karakter Allah.** Allah memiliki atribut yang menunjukkan kesempurnaan keberadaan dan karakter-Nya.
-    
-4. **Transendensi dan imanensi Allah.** Allah melampaui ciptaan, tetapi tetap hadir dan bekerja di dalam dunia.
-    
-5. **Kedaulatan Allah.** Allah memiliki kuasa dan otoritas atas seluruh ciptaan.
-    
-
-Erickson juga memberikan perhatian pada hubungan antara ajaran tentang Allah dengan kehidupan manusia, keselamatan, dan keseluruhan pemahaman iman Kristen.
-
-#### 6.3 Perbandingan Pemikiran Berkhof dan Erickson
-
-|Aspek|Louis Berkhof|Millard J. Erickson|
-|---|---|---|
-|Pendekatan|Teologi sistematika dalam tradisi Reformed|Teologi sistematika dalam tradisi Injili|
-|Keberadaan Allah|Menekankan keberadaan Allah yang sempurna dan mandiri|Membahas realitas keberadaan Allah dan dasar keyakinan Kristen|
-|Pengenalan Allah|Melalui penyataan Allah; manusia memiliki keterbatasan|Melalui penyataan Allah; pengetahuan manusia bersifat terbatas|
-|Sifat Allah|Menguraikan atribut dan kesempurnaan Allah secara sistematis|Menguraikan atribut Allah dan implikasinya bagi teologi|
-|Hubungan dengan ciptaan|Allah sebagai Pencipta dan Pemelihara|Menekankan transendensi, imanensi, dan kedaulatan Allah|
-|Penekanan|Ketepatan doktrin dan struktur teologi Reformed|Penjelasan teologis, argumentasi, dan relevansi doktrin|
-
-**Kesimpulan perbandingan:**
-
-Berkhof dan Erickson sama-sama menegaskan bahwa Allah merupakan keberadaan ilahi yang sempurna, tidak bergantung pada ciptaan, dan dapat dikenal melalui penyataan-Nya. Keduanya juga mengakui keterbatasan manusia dalam memahami Allah secara menyeluruh.
-
-Perbedaan keduanya terutama terletak pada struktur penyajian dan penekanan teologis. Pemikiran Berkhof banyak berakar pada tradisi Reformed, sedangkan Erickson menyajikan pendekatan teologi Injili yang lebih luas dalam pembahasan berbagai persoalan teologis.
 
 ---
 
