@@ -20,7 +20,7 @@ Tujuan mempelajari doktrin Allah:
 5. Memahami karya Allah dalam penciptaan, pemeliharaan, dan pemerintahan dunia.
 6. Membangun kehidupan iman, penyembahan, dan ketaatan berdasarkan pengenalan yang benar tentang Allah.
 
-> 🧑‍🏫 Sebagian besar pembahasan Doktrin Allah adalah pemikiran dari Louis Berkhof yang diambil dari  buku Teologi Sistematika. Karya Berkhof ini cukup banyak digunakan dan menjadi rujukan standar, terutama di kalangan teolog, pendeta, dan mahasiswa seminari berlatar belakang Protestan secara umum.
+> 🧑‍🏫 Sebagian besar pembahasan Doktrin Allah adalah pemikiran dari Louis Berkhof yang diambil dari buku Teologi Sistematika jilid 1. Karya Berkhof ini cukup banyak digunakan dan menjadi rujukan standar, terutama di kalangan teolog, pendeta, dan mahasiswa seminari berlatar belakang Protestan secara umum.
 
 ## 2. Konsep Dasar Doktrin Allah
 
@@ -31,8 +31,11 @@ Ada beberapa prinsip mendasar yang perlu dipahami.
 ### A. Allah dapat dikenal, tetapi tidak dapat dipahami secara sempurna oleh manusia
 
 Allah dapat dikenal karena Ia telah menyatakan diri-Nya kepada manusia. Penyataan tersebut terutama diberikan melalui:
-- Penyataan umum (General Revelation): Allah menyatakan keberadaan dan kemuliaan-Nya melalui alam semesta, ciptaan, dan hati nurani manusia.
-- Penyataan khusus (Special Revelation): Allah menyatakan diri-Nya secara khusus melalui firman-Nya dan puncaknya dalam pribadi Yesus Kristus.
+- **Penyataan umum (*General Revelation*)**: Allah menyatakan keberadaan dan kemuliaan-Nya melalui alam semesta, ciptaan, dan hati nurani manusia.
+	- 🧑‍🏫 Semua orang bisa melihatnya, orang percaya maupun tidak percaya.
+- **Penyataan khusus (*Special Revelation*)**: Allah menyatakan diri-Nya secara khusus melalui firman-Nya dan puncaknya dalam pribadi Yesus Kristus.
+
+> 🍎 Si comprehendis, non est Deus - St. Augustine
 
 Namun, manusia tidak mungkin memahami Allah secara sempurna karena keberadaan Allah tidak terbatas, sedangkan kemampuan manusia terbatas.
 
@@ -47,13 +50,10 @@ Dasar Alkitab:
 
 ### B. Pengetahuan tentang Allah bersumber dari penyataan Allah
 
-Manusia tidak dapat mengenal Allah secara benar hanya melalui rasio, pengalaman, atau pengamatan alam.
-
-Rasio manusia dapat digunakan untuk memahami penyataan Allah, tetapi bukan menjadi sumber tertinggi untuk menentukan siapa Allah.
-
-Alkitab menjadi otoritas utama dalam membangun doktrin tentang Allah.
-
-Implikasi teologis: Teologi bukanlah usaha manusia menciptakan konsep tentang Allah, melainkan usaha memahami dan menyusun secara sistematis kebenaran yang telah Allah nyatakan.
+- Manusia tidak dapat mengenal Allah secara benar hanya melalui rasio, pengalaman, atau pengamatan alam.
+- Rasio manusia dapat digunakan untuk memahami penyataan Allah, tetapi bukan menjadi sumber tertinggi untuk menentukan siapa Allah.
+- Alkitab menjadi otoritas utama dalam membangun doktrin tentang Allah.
+- Implikasi teologis: Teologi bukanlah usaha manusia menciptakan konsep tentang Allah, melainkan usaha memahami dan menyusun secara sistematis kebenaran yang telah Allah nyatakan.
 
 ## 3. Keberadaan Allah (The Existence of God)
 
@@ -64,6 +64,8 @@ Kejadian 1:1 menyatakan:
 > "Pada mulanya Allah menciptakan langit dan bumi."
 
 Pernyataan ini menunjukkan bahwa Allah merupakan Pribadi yang sudah ada sebelum segala sesuatu diciptakan. Allah bukan bagian dari alam semesta, melainkan Pencipta alam semesta.
+
+> 🧑‍🏫 Tujuan kisah penciptaan dalam Kejadian bukanlah menceritakan "bagaimana proses mekanisme penciptaan", tapi "Ada Allah yang menciptakan alam semesta ini"
 
 ### A. Kesaksian Alkitab tentang keberadaan Allah
 
@@ -89,6 +91,9 @@ Empat argumentasi yang umum dibahas dalam teologi:
 
 Argumentasi rasional dapat memberikan dukungan, tetapi tidak menghasilkan pengetahuan keselamatan atau pengenalan pribadi terhadap Allah tanpa penyataan-Nya.
 
+> 🧑‍🏫 Perdebatan teologis secara intelektual tidak menghasilkan pertobatan. Hanya jika ia menerima kebenaran Allah (melalui pekerjaan Roh Kudus), maka seseorang bisa mengalami pertobatan
+
+---
 ## 4. Pengenalan terhadap Allah (The Knowability of God)
 
 Salah satu prinsip penting adalah bahwa Allah tidak dapat dipahami secara sempurna, tetapi dapat dikenal secara nyata.
@@ -108,7 +113,8 @@ Sebagai contoh:
 - Manusia dapat mengetahui bahwa Allah itu kekal, tetapi tidak dapat mengalami kekekalan seperti Allah.
 - Manusia dapat mengetahui bahwa Allah mahahadir, tetapi tidak dapat memahami sepenuhnya bagaimana kehadiran Allah mencakup seluruh ruang.
 - Manusia dapat mengetahui bahwa Allah mahatahu, tetapi tidak memiliki pengetahuan seperti Allah.
-    
+
+> 🧑‍🏫 Dalam setiap perenungan tentang Allah, kita perlu menyadari keterbatasan kita. Tidak perlu berambisi untuk mengerti dan memahami segalanya, karena itu memang tidak mungkin. Hal ini seharusnya tidak menjadi sesuatu yang menjadi kebingungan atau sumber kebimbangan, tapi *ketidakterbatasan Allah* menjadi sumber kekaguman kita. 
 
 ### B. Allah menyatakan diri-Nya
 
@@ -131,31 +137,9 @@ Yohanes 1:18 menyatakan bahwa Anak Tunggal Allah menyatakan Bapa.
 
 Kesimpulan: Pengetahuan manusia tentang Allah merupakan hasil anugerah penyataan Allah, bukan semata-mata pencapaian intelektual manusia.
 
-## 5. Hakikat Allah dan Hubungannya dengan Sifat-Sifat Allah (The Being and Attributes of God)
-
-Sifat-sifat Allah bukanlah bagian-bagian yang terpisah dari diri Allah. Sifat-sifat tersebut menyatakan kesempurnaan keberadaan Allah sendiri.
-
-Misalnya:
-- Allah bukan hanya memiliki kasih; Allah adalah kasih (1 Yohanes 4:8).
-- Allah bukan hanya memiliki pengetahuan; Allah mahatahu.
-- Allah bukan hanya melakukan tindakan yang benar; Allah adalah benar dan adil.
-
-Dengan demikian, sifat-sifat Allah merupakan cara Alkitab menyatakan siapa Allah.
-
-### A. Kesatuan hakikat Allah
-
-Allah memiliki satu hakikat ilahi yang utuh dan tidak terbagi.
-
-Artinya:
-- Allah tidak tersusun dari bagian-bagian.
-- Kasih Allah tidak bertentangan dengan kekudusan-Nya.
-- Keadilan Allah tidak bertentangan dengan kemurahan-Nya.
-- Seluruh sifat Allah bekerja dalam keselarasan sempurna.
-    
-Hal ini berkaitan dengan doktrin kesederhanaan Allah (Divine Simplicity).
 
 ---
-## 6. Nama-Nama Allah (The Names of God)
+## 5. Nama-Nama Allah (The Names of God)
 
 Nama Allah bukan sekadar sebutan atau identitas linguistik. Nama Allah menyatakan karakter, keberadaan, dan hubungan Allah dengan ciptaan-Nya.
 
@@ -163,19 +147,19 @@ Nama-nama Allah dalam Alkitab memberikan gambaran tentang bagaimana Allah memper
 
 ### A. Nama-nama Allah dalam Perjanjian Lama
 
-1. **YHWH (Yahweh)**
+1. **YHWH (Yahweh)** (Hebrew: יהוה)
 	- Menunjukkan nama perjanjian Allah. Berkaitan dengan keberadaan Allah yang kekal dan kesetiaan-Nya terhadap umat-Nya.
 	- Referensi: Keluaran 3:14–15.
 
-2. **Elohim**
+2. **Elohim** (Ibrani: אֱלֹהִים)
 	- Nama yang digunakan untuk Allah sebagai Pencipta yang berkuasa dan berdaulat.
 	- Referensi: Kejadian 1:1.
 
-3. **El Shaddai**
+3. **El Shaddai** (Ibrani: אֵל שַׁדַּי )
 	- Secara tradisional diterjemahkan sebagai Allah Yang Mahakuasa. Menekankan kuasa dan kecukupan Allah.
 	- Referensi: Kejadian 17:1.
 
-4. **Adonai**
+4. **Adonai** (Ibrani: **אֲדֹנָי** )
 	- Berarti Tuhan atau Penguasa. Menekankan otoritas dan kedaulatan Allah atas umat-Nya.
 	- Referensi: Mazmur 8:2.
 
@@ -191,7 +175,7 @@ Nama-nama Allah dalam Alkitab memberikan gambaran tentang bagaimana Allah memper
 Penting dipahami bahwa nama-nama tersebut tidak menggambarkan Allah secara menyeluruh, tetapi menyatakan aspek-aspek keberadaan dan hubungan-Nya dengan manusia.
 
 ---
-## 7. Sifat-Sifat Allah (The Attributes of God)
+## 6. Sifat-Sifat Allah (The Attributes of God)
 
 Sifat-sifat Allah dibagi ke dalam dua kategori besar:
 1. Sifat-sifat Allah yang tidak dapat dikomunikasikan (Incommunicable Attributes).
@@ -275,7 +259,7 @@ Beberapa sifat penting untuk dipahami lebih lanjut:
 	- Referensi: Ulangan 32:4; Roma 2:6.
 
 ---
-## 8. Doktrin Allah Tritunggal (The Holy Trinity)
+## 7. Doktrin Allah Tritunggal (The Holy Trinity)
 
 Doktrin Tritunggal merupakan salah satu ajaran paling mendasar dalam teologi Kristen. Doktrin Tritunggal mengajarkan bahwa:
 
@@ -284,27 +268,28 @@ Doktrin Tritunggal merupakan salah satu ajaran paling mendasar dalam teologi Kri
 Dengan demikian, Kekristenan tidak mengajarkan tiga Allah (Tritheisme), dan juga tidak mengajarkan bahwa satu Pribadi Allah hanya berganti-ganti peran atau penampilan (Modalisme).
 
 ### A. Dasar Alkitab tentang Tritunggal
-1. Allah adalah satu
+
+1. **Allah adalah satu**
 	- Ulangan 6:4 – Tuhan itu esa.
 	- Yesaya 45:5 – Tidak ada Allah selain Tuhan.
 	- 1 Korintus 8:4–6 – Hanya ada satu Allah.
 
-2. Bapa adalah Allah
+2. **Bapa adalah Allah**
 	- Yohanes 6:27
 	- 1 Korintus 8:6
 	- Efesus 4:6
 
-3. Anak adalah Allah
+3. **Anak adalah Allah**
 	- Yohanes 1:1 – Firman adalah Allah.
 	- Yohanes 20:28 – Tomas mengakui Yesus sebagai Tuhan dan Allah.
 	- Kolose 2:9 – Seluruh kepenuhan ke-Allahan berdiam secara jasmaniah dalam Kristus.
 
-4. Roh Kudus adalah Allah
+4. **Roh Kudus adalah Allah**
 	- Kisah Para Rasul 5:3–4 – Berdusta kepada Roh Kudus berarti berdusta kepada Allah.
 	- 1 Korintus 3:16–17 – Orang percaya adalah bait Allah karena Roh Allah diam di dalam mereka.
 	- 2 Korintus 3:17 – Tuhan adalah Roh.
 
-5. Ketiga Pribadi dibedakan
+5. **Ketiga Pribadi dibedakan**
 	- Matius 3:16–17 memperlihatkan ketiga Pribadi dalam peristiwa pembaptisan Yesus:
 		- Anak dibaptis.
 		- Roh Kudus turun seperti burung merpati.
@@ -336,6 +321,19 @@ Dalam teologi Reformed, terdapat perbedaan relasi asal-usul (relations of origin
 Istilah diperanakkan secara kekal tidak berarti Anak diciptakan atau memiliki permulaan waktu. Anak adalah Allah yang kekal.
 
 Demikian pula, Roh Kudus bukan ciptaan atau kuasa impersonal, melainkan Pribadi ilahi.
+#### Ketiga Pribadi dibedakan dalam satu kesaksian Alkitab
+
+Salah satu ayat yang sangat penting adalah Matius 28:19.
+
+> "Baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus."
+
+Perhatikan bahwa kata "nama" menggunakan bentuk tunggal, sedangkan terdapat tiga Pribadi yang disebutkan.
+
+Ayat ini menunjukkan kesatuan ilahi sekaligus pembedaan personal antara Bapa, Anak, dan Roh Kudus.
+
+Ayat penting lainnya adalah Matius 3:16–17, yaitu peristiwa pembaptisan Yesus.
+
+![](files/doktrin-allah-1.png)
 
 ### D. Tritunggal dalam karya keselamatan
 
@@ -349,8 +347,129 @@ Ketiga Pribadi memiliki karya yang berbeda secara personal, tetapi tidak terpisa
 
 Penting: Pembagian karya tersebut tidak berarti bahwa ketiga Pribadi bekerja secara terpisah. Dalam teologi klasik, karya *Allah ke luar* (*opera ad extra*) merupakan karya Allah Tritunggal yang satu, meskipun tindakan tertentu dapat secara khusus dikaitkan dengan salah satu Pribadi.
 
+### Perkembangan Historis Doktrin Tritunggal
+
+Untuk memahami doktrin Tritunggal menurut Berkhof, penting untuk mengetahui bagaimana gereja mula-mula merumuskan ajaran ini.
+
+Doktrin Tritunggal tidak dirumuskan dalam satu waktu. Gereja mula-mula menghadapi berbagai pertanyaan teologis mengenai hubungan antara Bapa, Anak, dan Roh Kudus.
+
+Pertanyaan-pertanyaan tersebut antara lain:
+- Jika Allah hanya satu, bagaimana Yesus dapat disebut Allah?
+- Jika Yesus adalah Allah, apakah Ia sama dengan Bapa?
+- Jika Roh Kudus adalah Allah, mengapa Ia dibedakan dari Bapa dan Anak?
+- Apakah Anak memiliki keberadaan yang sama kekalnya dengan Bapa?
+- Apakah Roh Kudus memiliki hakikat ilahi yang sama dengan Bapa dan Anak?
+
+Perdebatan tersebut mendorong gereja untuk merumuskan doktrin Tritunggal secara lebih jelas.
+
+#### Periode Gereja Mula-Mula
+
+Pada periode gereja mula-mula, para rasul dan jemaat Kristen telah menyembah Allah Bapa, mengakui Yesus Kristus sebagai Tuhan, serta mengalami pekerjaan Roh Kudus.
+
+Namun, mereka menghadapi tantangan untuk menjelaskan hubungan ketiga Pribadi tersebut secara teologis.
+
+Beberapa tokoh Kristen mula-mula memberikan kontribusi penting dalam pembentukan rumusan doktrin Tritunggal.
+
+##### A. Tertullianus (sekitar 155–220 M)
+
+Tertullianus merupakan salah satu tokoh yang memberikan kontribusi penting dalam penggunaan istilah Tritunggal.
+
+Ia menggunakan istilah Latin Trinitas untuk menjelaskan Allah sebagai satu substansi (una substantia) dalam tiga Pribadi (tres personae).
+
+Kontribusi pemikirannya:
+- Mempertahankan keesaan Allah.
+- Menegaskan perbedaan Bapa, Anak, dan Roh Kudus.
+- Mengembangkan terminologi yang kemudian digunakan dalam teologi Tritunggal.
+
+##### B. Origenes (sekitar 185–254 M)
+
+Origenes memberikan kontribusi dalam pembahasan mengenai hubungan kekal antara Bapa dan Anak.
+
+Ia menekankan bahwa Anak memiliki keberadaan yang berasal dari Bapa secara kekal.
+
+Namun, beberapa aspek pemikirannya kemudian diperdebatkan, terutama karena bahasa hierarkis yang digunakan mengenai hubungan Bapa dan Anak dapat ditafsirkan seolah-olah Anak memiliki kedudukan yang lebih rendah.
+
+##### C. Athanasius (sekitar 296–373 M)
+
+Athanasius merupakan tokoh penting dalam mempertahankan keilahian Kristus terhadap ajaran Arianisme.
+
+Ia menegaskan bahwa Anak bukan ciptaan dan bukan makhluk yang lebih rendah daripada Bapa.
+
+Anak memiliki hakikat ilahi yang sama dengan Bapa.
+
+Kontribusi Athanasius sangat penting dalam perkembangan doktrin Tritunggal, khususnya pada Konsili Nicea.
+
+#### Konsili Nicea (325 M)
+
+![](files/nicea-1.png)
+
+Konsili Nicea diselenggarakan pada tahun 325 M untuk menyelesaikan kontroversi mengenai keilahian Yesus Kristus.
+
+Kontroversi tersebut terutama berkaitan dengan ajaran Arius.
+
+Arius mengajarkan bahwa Anak bukan Allah dalam pengertian yang sama dengan Bapa. Menurut ajarannya, Anak merupakan makhluk yang diciptakan dan memiliki permulaan.
+
+Ajaran ini menimbulkan persoalan serius bagi iman Kristen karena jika Kristus adalah ciptaan, Ia tidak memiliki hakikat ilahi yang sama dengan Bapa.
+
+Konsili Nicea menolak pandangan tersebut dan menegaskan bahwa Anak adalah:
+
+> Homoousios tō Patri.
+
+Artinya: *Anak memiliki hakikat yang sama dengan Bapa*.
+
+Rumusan pengakuan iman Nicea menyatakan bahwa Yesus Kristus adalah:
+- Allah dari Allah.
+- Terang dari Terang.
+- Allah sejati dari Allah sejati.
+- Diperanakkan, bukan dijadikan.
+- Sehakikat dengan Bapa.
+
+Makna teologis Konsili Nicea:
+
+Yesus Kristus bukan makhluk ciptaan, melainkan Allah sejati yang memiliki hakikat ilahi yang sama dengan Bapa.
+
+## 4.3. Konsili Konstantinopel (381 M)
+
+![](files/Pasted%20image%2020261119211627.png)
+
+Konsili Konstantinopel pada tahun 381 M memperkuat rumusan Nicea dan memberikan penegasan lebih lanjut mengenai keilahian Roh Kudus.
+
+Pada masa tersebut, muncul kelompok yang dikenal sebagai Pneumatomakhian atau Makedonian, yang menolak atau merendahkan keilahian Roh Kudus.
+
+Konsili ini menegaskan bahwa Roh Kudus adalah Tuhan dan Pemberi hidup, yang disembah dan dimuliakan bersama Bapa dan Anak.
+
+Dengan demikian, rumusan iman gereja semakin menegaskan keilahian ketiga Pribadi.
+
+##### Perkembangan rumusan historis
+
+|Tahun|Peristiwa|Kontribusi teologis|
+|---|---|---|
+|325 M|Konsili Nicea|Menegaskan keilahian Anak dan kesetaraan hakikat-Nya dengan Bapa.|
+|381 M|Konsili Konstantinopel|Memperkuat pengakuan terhadap keilahian Roh Kudus.|
+|451 M|Konsili Kalsedon|Menegaskan dua natur Kristus, ilahi dan manusia, dalam satu Pribadi.|
+
+Perlu diperhatikan bahwa Konsili Kalsedon terutama membahas Kristologi, bukan merumuskan ulang doktrin Tritunggal. Namun, rumusannya sangat penting untuk memahami Pribadi Kristus sebagai Anak Allah yang berinkarnasi.
+
+#### Pengakuan Iman Athanasius (Athanasian Creed)
+
+Pengakuan Iman Athanasius merupakan salah satu rumusan historis yang menjelaskan doktrin Tritunggal secara terperinci.
+
+Walaupun secara tradisional dikaitkan dengan Athanasius, para ahli sejarah umumnya tidak menganggap Athanasius sebagai penulisnya.
+
+Pengakuan ini menekankan beberapa prinsip:
+1. Bapa adalah Allah.
+2. Anak adalah Allah.
+3. Roh Kudus adalah Allah.
+4. Namun, bukan terdapat tiga Allah, melainkan satu Allah.
+5. Bapa tidak diperanakkan.
+6. Anak diperanakkan dari Bapa.
+7. Roh Kudus keluar dari Bapa dan Anak.
+8. Ketiga Pribadi sama-sama kekal dan setara dalam keilahian.
+
+Rumusan ini menjadi salah satu dasar penting dalam tradisi teologi Barat.
+
 ---
-## 9. Karya Allah (The Works of God)
+## 8. Karya Allah (The Works of God)
 
 Allah menyatakan kuasa, kehendak, dan kedaulatan-Nya terhadap seluruh ciptaan. Pembicaraan tentang karya Allah dibagi ke dalam enam pembahasan utama.
 
@@ -463,7 +582,7 @@ Dasar Alkitab:
 - Matius 10:29–30 – Pemeliharaan Allah bahkan mencakup hal-hal yang kecil.
 
 ---
-## 10. Implikasi Doktrin Allah bagi Kehidupan Kristen
+## 9. Implikasi Doktrin Allah bagi Kehidupan Kristen
 
 Doktrin Allah bukan hanya pembahasan akademis, tetapi memiliki implikasi langsung bagi iman dan kehidupan orang Kristen.
 
@@ -480,7 +599,7 @@ Doktrin Allah bukan hanya pembahasan akademis, tetapi memiliki implikasi langsun
 
 ---
 
-## 11. Kesimpulan Teologis
+## 10. Kesimpulan Teologis
 
 Berdasarkan pemikiran Louis Berkhof, doktrin Allah merupakan fondasi dari seluruh sistem teologi Kristen.
 

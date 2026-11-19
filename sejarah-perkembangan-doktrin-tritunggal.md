@@ -31,6 +31,7 @@ Beberapa ayat penting yang menjadi dasar pembahasan adalah:
 
 Dengan demikian, doktrin Tritunggal berkembang melalui usaha gereja untuk menjelaskan kesaksian Alkitab secara teologis, terutama ketika menghadapi berbagai perdebatan mengenai keilahian Kristus dan Roh Kudus.
 
+---
 ## 2. Latar Belakang Munculnya Doktrin Tritunggal
 
 Pada masa gereja mula-mula, orang Kristen menghadapi pertanyaan mendasar:
@@ -82,30 +83,26 @@ Inti perkembangan: Gereja mulai membangun pemahaman teologis tentang Bapa, Anak,
 
 ### B. Periode Apologetika dan Perumusan Terminologi Tritunggal (Abad II–III)
 ![](files/03-tertulian-1.png)
-[A Church History Series: Early Church Fathers – Tertullian](https://images.openai.com/static-rsc-4/uAJRWVIKQpX87BxE8dIe-U0ECMDbeUr9yi4c0KQ1a5_8bkCQwvdpSdx013snid3iOZKG7SdVwu1CHYPc4lsJ8hdDro5pn1xebxd1sZUjP95dXE2NNa2uXwP5ZGRznngVT1Wym3Figo7W2gfhSMnPG4P69d9Ac26ra8WvpylSgzE?purpose=inline)
 
 Pada periode ini, gereja mulai mengembangkan istilah teologis untuk menjelaskan Tritunggal, terutama dalam menghadapi ajaran yang dianggap tidak sesuai dengan iman Kristen.
 
 Tokoh penting dalam perkembangan ini adalah Tertulianus (±155–220 M).
 
-Tertulianus dan istilah Trinitas
+#### Tertulianus dan istilah Trinitas
 
 Tertulianus merupakan salah satu teolog pertama yang menggunakan istilah Latin Trinitas untuk menjelaskan Allah Tritunggal.
 
 Ia menggunakan istilah:
-
-- Una substantia: satu substansi atau hakikat.
-    
-- Tres personae: tiga pribadi.
-    
+- *Una substantia*: satu substansi atau hakikat.
+- *Tres personae*: tiga pribadi.
 
 Rumusan ini menjadi salah satu fondasi penting bagi perkembangan terminologi Tritunggal dalam tradisi teologi Barat.
 
 Tertulianus berusaha menjelaskan bahwa Bapa, Anak, dan Roh Kudus berbeda sebagai pribadi, tetapi tidak berarti terdapat tiga Allah yang terpisah.
 
-Kontroversi Modalisme
+#### Kontroversi Modalisme
 
-Pada masa ini, gereja juga menghadapi ajaran Modalisme.
+Pada masa ini, gereja juga menghadapi ajaran *Modalisme*.
 
 Modalisme mengajarkan bahwa Bapa, Anak, dan Roh Kudus bukan tiga pribadi yang berbeda, melainkan tiga bentuk atau manifestasi dari satu Allah.
 
@@ -241,32 +238,25 @@ Inti perkembangan: Agustinus memperdalam penjelasan teologis mengenai kesatuan h
 
 ### F. Periode Abad Pertengahan (Abad VI–XV): Pengembangan Teologi Tritunggal secara Sistematis
 
-[Thomas Aquinas as a Biblical Commentator - Taylor Marshall](https://images.openai.com/static-rsc-4/WAAk9gx1Ab_jAaH-hTUinDUMpLZs-EoKlUUr9CBOhm14RNCfXqcsWQGbCwB9pWktLqneJMkjRierL1tDH4GYieOkUAY15gXdeu1g3IDoL03XsUvILbua88afZ2TqxqNwOfvrDU7X600cKtPy7VVBjk6HLwX860iYl8DWCrdwmao?purpose=inline)
-
-[taylormarshall.com](https://taylormarshall.com/2008/06/thomas-aquinas-as-biblical-commentator.html?utm_source=chatgpt.com)
+![](files/tritunggal-2.png)
 
 Pada Abad Pertengahan, doktrin Tritunggal terus dikembangkan melalui pendekatan filsafat dan teologi sistematis.
 
 Tokoh yang sangat berpengaruh adalah Thomas Aquinas (1225–1274).
 
-Dalam karya Summa Theologiae, Aquinas menjelaskan doktrin Tritunggal melalui pendekatan metafisika dan konsep relasi.
+Dalam karya *Summa Theologiae*, Aquinas menjelaskan doktrin Tritunggal melalui pendekatan metafisika dan konsep relasi.
 
 Beberapa penekanan pemikirannya:
-
 1. Allah memiliki satu esensi atau hakikat ilahi.
-    
 2. Terdapat tiga pribadi yang berbeda dalam Allah.
-    
 3. Perbedaan pribadi didasarkan pada relasi asal-usul (relations of origin).
-    
 4. Anak berasal dari Bapa melalui proses diperanakkan secara kekal (eternal generation).
-    
 5. Roh Kudus berasal dari Bapa dan Anak menurut tradisi teologi Barat (filioque).
     
 
-Perdebatan Filioque
+#### Perdebatan Filioque
 
-Salah satu persoalan penting dalam sejarah doktrin Tritunggal adalah istilah Filioque, yang berarti "dan Anak".
+Salah satu persoalan penting dalam sejarah doktrin Tritunggal adalah istilah *Filioque*, yang berarti "dan Anak".
 
 Dalam pengakuan iman Barat, frasa ini ditambahkan untuk menjelaskan bahwa Roh Kudus berasal dari Bapa dan Anak.
 
@@ -278,34 +268,24 @@ Inti perkembangan: Doktrin Tritunggal semakin dikembangkan melalui penjelasan fi
 
 ### G. Periode Reformasi (Abad XVI): Penegasan Kembali Doktrin Tritunggal
 
-[What Caused the Protestant Reformation in the 16th Century? | TheCollector](https://images.openai.com/static-rsc-4/cZI_6H2nmN1uukUnbE680flWzI5cIfdoB7_vNYPos4J5FVnEzVqPg9qEeC8_jcPt8SJxBWpDBZ7lT-vS4Wgkc511UuTrm07Y_qnBdVJ8Xj0e9Cp7ICKoUhxNsNGuWgbS-MIFS0MX_4QZOd0c8Z-yP2Au8ZFSw6Tfj-Hpw0tUBMg?purpose=inline)
-
-[thecollector.com](https://www.thecollector.com/what-caused-protestant-reformation-16th-century/?utm_source=chatgpt.com)
+![](files/tritunggal-3.png)
 
 Pada masa Reformasi, para reformator tidak menolak doktrin Tritunggal yang telah dirumuskan oleh gereja mula-mula.
 
 Sebaliknya, mereka mempertahankan pengakuan iman Tritunggal dan menempatkannya dalam kerangka otoritas Alkitab.
 
 1. Martin Luther (1483–1546)
-
-Luther mempertahankan keilahian Bapa, Anak, dan Roh Kudus. Ia menekankan bahwa keselamatan manusia merupakan karya Allah Tritunggal.
+	- Luther mempertahankan keilahian Bapa, Anak, dan Roh Kudus. Ia menekankan bahwa keselamatan manusia merupakan karya Allah Tritunggal.
 
 2. Yohanes Calvin (1509–1564)
-
-Calvin memberikan pembahasan penting mengenai Tritunggal dalam Institutes of the Christian Religion.
+	- Calvin memberikan pembahasan penting mengenai Tritunggal dalam Institutes of the Christian Religion.
 
 Beberapa penekanannya adalah:
-
 - Allah adalah satu dalam hakikat.
-    
 - Bapa, Anak, dan Roh Kudus merupakan tiga pribadi yang berbeda.
-    
 - Ketiganya memiliki keilahian yang setara dan kekal.
-    
 - Keilahian Yesus Kristus tidak lebih rendah daripada Bapa.
-    
 - Roh Kudus adalah Allah dan bekerja dalam kehidupan orang percaya.
-    
 
 Calvin juga menolak pandangan yang merendahkan keilahian Kristus maupun yang menghilangkan perbedaan pribadi dalam Tritunggal.
 
@@ -313,13 +293,11 @@ Inti perkembangan: Reformasi mempertahankan doktrin Tritunggal klasik dan meneka
 
 ### H. Periode Modern dan Kontemporer (Abad XVIII–XXI): Kritik dan Pembaruan Doktrin Tritunggal
 
-[Popstar der Theologie - Karl Barth: ein Mann Gottes und der Widersprüche - Kultur - SRF](https://images.openai.com/static-rsc-4/eH7-5GJckHlw8mjwWbu5W36sqYMj2KGNAisIOEf1HSAtwH5NSF2PgmpZHxYWURF9PnQOLHxacSdhfL1EbiPLnXO9jXWov3mddrN_sWWDUauaw3iH-1L6cRfIEP3P8oisK_1h3paTXEKRs0s9KFilMPuYOxtuPPwOaLbIksCWi_E?purpose=inline)
-
-[srf.ch](https://www.srf.ch/kultur/gesellschaft-religion/popstar-der-theologie-karl-barth-ein-mann-gottes-und-der-widersprueche?utm_source=chatgpt.com)
+![](files/tritunggal-4.png)
 
 Pada periode modern, doktrin Tritunggal menghadapi tantangan baru akibat perkembangan rasionalisme, Pencerahan, filsafat modern, dan kritik terhadap agama.
 
-1. Pengaruh Rasionalisme dan Pencerahan
+#### 1. Pengaruh Rasionalisme dan Pencerahan
 
 Pada masa Pencerahan, akal manusia mendapatkan perhatian yang sangat besar.
 
@@ -329,32 +307,28 @@ Akibatnya, beberapa pemikir teologi modern mulai mengurangi penekanan terhadap d
 
 Deisme dan Unitarianisme merupakan contoh perkembangan pemikiran yang menolak atau tidak menerima pemahaman Tritunggal klasik.
 
-2. Friedrich Schleiermacher (1768–1834)
+#### 2. Friedrich Schleiermacher (1768–1834)
 
 Schleiermacher menempatkan pengalaman religius manusia sebagai unsur penting dalam teologi.
 
 Dalam pemikirannya, doktrin Tritunggal tidak mendapatkan posisi yang sama seperti dalam teologi klasik. Ia membahasnya sebagai bagian dari refleksi sistematis mengenai iman Kristen.
 
-3. Karl Barth (1886–1968)
+#### 3. Karl Barth (1886–1968)
 
 Karl Barth memberikan kontribusi penting dalam pembaruan pembahasan Tritunggal pada abad XX.
 
 Dalam Church Dogmatics, Barth menempatkan doktrin Tritunggal sebagai dasar pemahaman tentang penyataan Allah.
 
 Menurut Barth, Allah menyatakan diri-Nya sebagai:
-
 - Allah yang menyatakan diri (Revealer).
-    
 - Allah yang dinyatakan (Revealed).
-    
 - Allah yang membuat penyataan-Nya dapat diterima (Revealing).
-    
 
 Ketiga cara tersebut berkaitan dengan Bapa, Anak, dan Roh Kudus.
 
 Barth menegaskan bahwa Allah dikenal bukan karena manusia mampu menemukan-Nya melalui pemikiran sendiri, melainkan karena Allah berinisiatif menyatakan diri-Nya.
 
-4. Jürgen Moltmann (1926–2024)
+#### 4. Jürgen Moltmann (1926–2024)
 
 Moltmann mengembangkan pendekatan sosial terhadap Tritunggal (Social Trinity).
 
@@ -364,55 +338,50 @@ Pemikirannya menekankan bahwa kehidupan Allah Tritunggal merupakan kehidupan per
 
 Inti perkembangan: Teologi modern dan kontemporer kembali memberikan perhatian terhadap doktrin Tritunggal, khususnya dalam pembahasan penyataan Allah, relasi antarpribadi, kasih, dan kehidupan persekutuan.
 
+---
+
 ## 4. Perbandingan Pemikiran Tokoh-Tokoh Penting dalam Perkembangan Doktrin Tritunggal
 
 Untuk memahami perkembangan doktrin Tritunggal, berikut perbandingan kontribusi beberapa tokoh utama.
 
-|Tokoh|Periode|Kontribusi utama|
-|---|---|---|
-|Yustinus Martir|Abad II|Pemikiran mengenai Logos atau Firman Allah|
-|Irenaeus|Abad II|Karya Allah melalui Firman dan Roh Kudus|
-|Tertulianus|Abad II–III|Penggunaan istilah Trinitas, satu substansi dan tiga pribadi|
-|Athanasius|Abad IV|Mempertahankan keilahian Kristus|
-|Basil dari Kaisarea|Abad IV|Penjelasan mengenai keilahian Roh Kudus|
-|Gregorius Nazianzus|Abad IV|Kesetaraan ketiga pribadi dalam keilahian|
-|Gregorius dari Nyssa|Abad IV|Penjelasan satu hakikat dan tiga pribadi|
-|Agustinus|Abad IV–V|Kesatuan hakikat dan relasi Tritunggal|
-|Thomas Aquinas|Abad XIII|Penjelasan Tritunggal melalui metafisika dan relasi|
-|Yohanes Calvin|Abad XVI|Penegasan Tritunggal berdasarkan Alkitab|
-|Karl Barth|Abad XX|Tritunggal sebagai dasar doktrin penyataan Allah|
-|Jürgen Moltmann|Abad XX–XXI|Pendekatan sosial dan relasional terhadap Tritunggal|
+| Tokoh                | Periode     | Kontribusi utama                                             |
+| -------------------- | ----------- | ------------------------------------------------------------ |
+| Yustinus Martir      | Abad II     | Pemikiran mengenai Logos atau Firman Allah                   |
+| Irenaeus             | Abad II     | Karya Allah melalui Firman dan Roh Kudus                     |
+| Tertulianus          | Abad II–III | Penggunaan istilah Trinitas, satu substansi dan tiga pribadi |
+| Athanasius           | Abad IV     | Mempertahankan keilahian Kristus                             |
+| Basil dari Kaisarea  | Abad IV     | Penjelasan mengenai keilahian Roh Kudus                      |
+| Gregorius Nazianzus  | Abad IV     | Kesetaraan ketiga pribadi dalam keilahian                    |
+| Gregorius dari Nyssa | Abad IV     | Penjelasan satu hakikat dan tiga pribadi                     |
+| Agustinus            | Abad IV–V   | Kesatuan hakikat dan relasi Tritunggal                       |
+| Thomas Aquinas       | Abad XIII   | Penjelasan Tritunggal melalui metafisika dan relasi          |
+| Yohanes Calvin       | Abad XVI    | Penegasan Tritunggal berdasarkan Alkitab                     |
+| Karl Barth           | Abad XX     | Tritunggal sebagai dasar doktrin penyataan Allah             |
+| Jürgen Moltmann      | Abad XX–XXI | Pendekatan sosial dan relasional terhadap Tritunggal         |
+
+---
 
 ## 5. Konsep-Konsep Utama dalam Doktrin Tritunggal
 
 Berdasarkan perkembangan sejarah tersebut, terdapat beberapa konsep teologis yang perlu dipahami mahasiswa.
 
 ### A. Satu Hakikat dan Tiga Pribadi
-
-[The Church, Christ, the Holy Spirit and Us | PEMPTOUSIA](https://images.openai.com/static-rsc-4/T3bWcjgidIBpAOOsyw4oSu6wn6FUmHpbW5ZpzAi62-uqNPqR9-sTAz6JBulJItpH_QqG2HVBNxK2M-HkvNXyC_GlxVaaC4jUdBoyNdb5-V_9jjMA4blLCfsyk5MroZbeAUJt8N4ckuL-6fJHoXqbEeNljqLN57RWuqlzPNl-nDE?purpose=inline)
-
-[pemptousia.com](https://pemptousia.com/2018/06/the-church-christ-the-holy-spirit-and-us/?utm_source=chatgpt.com)
+![](files/tritunggal-1.png)
 
 Doktrin Tritunggal menjelaskan bahwa Allah adalah satu dalam hakikat (ousia), tetapi tiga dalam pribadi (hypostasis).
 
 Artinya:
-
 - Bapa adalah Allah.
-    
 - Anak adalah Allah.
-    
 - Roh Kudus adalah Allah.
-    
 - Bapa bukan Anak.
-    
 - Anak bukan Roh Kudus.
-    
 - Roh Kudus bukan Bapa.
-    
 - Allah tetap satu, bukan tiga Allah.
-    
 
 Ketiga pribadi memiliki keilahian yang sama, kekal, dan tidak terbagi.
+
+![](files/Pasted%20image%2020261119202028.png)
 
 ### B. Kesetaraan Ketiga Pribadi
 
@@ -424,11 +393,11 @@ Hal ini penting untuk membedakan doktrin Tritunggal dari Arianisme yang mengangg
 
 Walaupun memiliki satu hakikat, ketiga pribadi memiliki perbedaan dalam relasi personalnya.
 
-|Pribadi|Karakteristik relasional|
-|---|---|
-|Allah Bapa|Tidak diperanakkan|
-|Allah Anak|Diperanakkan secara kekal dari Bapa|
-|Allah Roh Kudus|Berasal dari Bapa; dalam tradisi Barat, dari Bapa dan Anak|
+| Pribadi         | Karakteristik relasional                                   |
+| --------------- | ---------------------------------------------------------- |
+| Allah Bapa      | Tidak diperanakkan                                         |
+| Allah Anak      | Diperanakkan secara kekal dari Bapa                        |
+| Allah Roh Kudus | Berasal dari Bapa; dalam tradisi Barat, dari Bapa dan Anak |
 
 Perbedaan ini tidak menunjukkan perbedaan tingkat keilahian.
 
@@ -444,33 +413,28 @@ Dalam teologi Kristen, karya Allah dalam penciptaan, penebusan, dan pengudusan d
 
 Namun, perlu dipahami bahwa karya Allah terhadap ciptaan merupakan karya satu Allah Tritunggal, bukan tiga pekerjaan yang terpisah secara mutlak.
 
+---
 ## 6. Ajaran yang Ditolak dalam Doktrin Tritunggal
 
 Dalam sejarahnya, gereja juga merumuskan doktrin Tritunggal dengan membedakannya dari beberapa pandangan yang dianggap menyimpang.
 
-|Pandangan|Penjelasan|Mengapa ditolak dalam teologi Tritunggal klasik|
-|---|---|---|
-|Arianisme|Anak adalah ciptaan dan bukan Allah sejati|Menyangkal kesetaraan keilahian Anak|
-|Modalisme|Bapa, Anak, dan Roh Kudus hanya tiga manifestasi Allah|Menghilangkan perbedaan pribadi|
-|Tritheisme|Bapa, Anak, dan Roh Kudus merupakan tiga Allah|Menyangkal keesaan Allah|
-|Subordinasianisme|Anak atau Roh Kudus lebih rendah dalam hakikat keilahian|Tidak mempertahankan kesetaraan hakikat ilahi|
+| Pandangan         | Penjelasan                                               | Mengapa ditolak dalam teologi Tritunggal klasik |
+| ----------------- | -------------------------------------------------------- | ----------------------------------------------- |
+| Arianisme         | Anak adalah ciptaan dan bukan Allah sejati               | Menyangkal kesetaraan keilahian Anak            |
+| Modalisme         | Bapa, Anak, dan Roh Kudus hanya tiga manifestasi Allah   | Menghilangkan perbedaan pribadi                 |
+| Tritheisme        | Bapa, Anak, dan Roh Kudus merupakan tiga Allah           | Menyangkal keesaan Allah                        |
+| Subordinasianisme | Anak atau Roh Kudus lebih rendah dalam hakikat keilahian | Tidak mempertahankan kesetaraan hakikat ilahi   |
 
 ## 7. Kesimpulan: Makna Historis Perkembangan Doktrin Tritunggal
 
 Perkembangan doktrin Tritunggal memperlihatkan bagaimana gereja sepanjang sejarah berusaha memahami dan menjelaskan identitas Allah berdasarkan kesaksian Alkitab.
 
 Perkembangan tersebut dapat disimpulkan dalam lima tahap penting:
-
 1. Gereja mula-mula: Menerima kesaksian Alkitab mengenai Bapa, Anak, dan Roh Kudus, serta mulai mengembangkan pemahaman tentang hubungan ketiganya.
-    
 2. Abad II–III: Mengembangkan terminologi teologis melalui pemikiran Tertulianus mengenai satu substansi dan tiga pribadi.
-    
 3. Abad IV: Merumuskan pengakuan iman Tritunggal melalui Konsili Nicea (325) dan Konstantinopel (381), terutama mengenai kesetaraan keilahian Bapa, Anak, dan Roh Kudus.
-    
 4. Abad Pertengahan dan Reformasi: Memperdalam pemahaman mengenai hakikat, pribadi, dan relasi dalam Tritunggal serta mempertahankan doktrin tersebut berdasarkan iman Kristen.
-    
 5. Zaman Modern dan Kontemporer: Mengembangkan kembali pembahasan Tritunggal dalam konteks penyataan Allah, relasi, kasih, dan kehidupan manusia.
-    
 
 Pokok teologis yang harus dipahami: Doktrin Tritunggal bukanlah ajaran mengenai tiga Allah ataupun satu Allah yang sekadar menggunakan tiga bentuk penampilan. Doktrin ini mengajarkan satu Allah dalam tiga pribadi yang berbeda, setara, dan kekal.
 
