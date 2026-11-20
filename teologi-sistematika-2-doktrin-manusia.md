@@ -1,24 +1,10 @@
-# Materi Pembelajaran: Doktrin Manusia (Antropologi Teologis)
+# Doktrin Manusia (Antropologi Teologis)
+
+![](files/buku-sistematika-2.png)
 
 Berdasarkan Louis Berkhof – Teologi Sistematika Jilid 2: Doktrin Manusia
 
-[Jual TEOLOGI SISTEMATIKA 2. DOKTRIN MANUSIA. | Shopee Indonesia](https://images.openai.com/static-rsc-4/jrf4ja7Qe1JNyPFDvCKiba3QpixYRbLdGaZ8eFYnN1q7S2Rk7ooELb93Emd9s9B60C1AuCMgpap1KGqfF6c_uiaKYC1S0HjVzDHYKJxnewgqOK_hehgjw2t7Nbkf8aBPKqw7GmUd4UQauvlb-Yj4zmH1G3hVeYRxq1DLwhoYoL8?purpose=inline)
-
-Referensi utama
-
-Louis Berkhof, Teologi Sistematika Jilid 2: Doktrin Manusia.
-
-Penerjemah: Yudha Thianto.
-
-Penerbit: Momentum, Surabaya.
-
-ISBN: 978-602-8165-70-9.
-
-279 halaman pada edisi Momentum yang tercatat dalam katalog perpustakaan.
-
-## A. Pendahuluan: Pengertian Doktrin Manusia
-
-### 1. Pengertian antropologi teologis
+## 1. Pengertian antropologi teologis
 
 Antropologi teologis (Theological Anthropology) adalah cabang teologi sistematika yang mempelajari manusia berdasarkan penyataan Allah dalam Alkitab.
 
@@ -36,59 +22,38 @@ Antropologi teologis berbeda dengan antropologi umum.
 
 Inti pemikiran Berkhof: Manusia hanya dapat memahami identitas, hakikat, dan tujuan hidupnya secara benar apabila ia memahami hubungannya dengan Allah.
 
-### 2. Struktur pembahasan Doktrin Manusia menurut Berkhof
+## 2. Struktur pembahasan Doktrin Manusia 
 
-Buku Teologi Sistematika Jilid 2 secara garis besar membagi pembahasan doktrin manusia menjadi tiga bagian utama:
+Secara garis besar membagi pembahasan doktrin manusia menjadi tiga bagian utama:
 
-Bagian I
-
-Manusia dalam Keadaannya yang Mula-Mula
-
-Membahas penciptaan manusia, natur manusia, gambar dan rupa Allah, serta perjanjian kerja.
-
-Bagian II
-
-Manusia dalam Keadaan Berdosa
-
-Membahas asal mula dosa, hakikat dosa, pewarisan dosa, dosa dalam kehidupan manusia, dan hukuman dosa.
-
-Bagian III
-
-Manusia dalam Perjanjian Anugerah
-
-Membahas konsep anugerah, perjanjian penebusan, hakikat perjanjian anugerah, dan berbagai dispensasi perjanjian.
-
-GUBUK+2
+1. **Manusia dalam Keadaannya yang Mula-Mula**
+	- Membahas penciptaan manusia, natur manusia, gambar dan rupa Allah, serta perjanjian kerja.
+2. **Manusia dalam Keadaan Berdosa**
+	- Membahas asal mula dosa, hakikat dosa, pewarisan dosa, dosa dalam kehidupan manusia, dan hukuman dosa.
+3. **Manusia dalam Perjanjian Anugerah**
+	- Membahas konsep anugerah, perjanjian penebusan, hakikat perjanjian anugerah, dan berbagai dispensasi perjanjian.
 
 Ketiga bagian tersebut memperlihatkan perjalanan pemahaman teologis mengenai manusia: manusia diciptakan dalam keadaan baik, jatuh ke dalam dosa, dan menerima pengharapan keselamatan melalui anugerah Allah.
 
+---
 # B. Bagian I – Manusia dalam Keadaannya yang Mula-Mula
 
 ## 1. Asal Mula Manusia
 
 ### a. Manusia adalah ciptaan Allah
 
-Menurut Berkhof, manusia bukan hasil kebetulan atau keberadaan yang berdiri sendiri. Manusia merupakan ciptaan Allah yang secara khusus dibentuk menurut kehendak dan rancangan-Nya.
+Manusia bukan hasil kebetulan atau keberadaan yang berdiri sendiri. Manusia merupakan ciptaan Allah yang secara khusus dibentuk menurut kehendak dan rancangan-Nya.
 
 Dasar Alkitab:
-
 - Kejadian 1:26–27 – Allah menciptakan manusia menurut gambar dan rupa-Nya.
-    
 - Kejadian 2:7 – Allah membentuk manusia dari debu tanah dan mengembuskan napas hidup.
-    
 - Mazmur 100:3 – Manusia adalah milik Allah karena Dia yang menjadikannya.
-    
 
 Penciptaan manusia memiliki beberapa karakteristik penting:
-
 1. Berasal dari Allah: Manusia memiliki keberadaan karena kehendak dan kuasa Allah.
-    
 2. Memiliki identitas khusus: Manusia diciptakan menurut gambar dan rupa Allah.
-    
 3. Memiliki tujuan: Manusia diciptakan untuk hidup dalam hubungan dengan Allah dan menjalankan tanggung jawab dalam ciptaan.
-    
 4. Memiliki ketergantungan: Manusia bukan makhluk yang otonom secara mutlak, melainkan selalu bergantung kepada Penciptanya.
-    
 
 ### b. Penciptaan laki-laki dan perempuan
 
@@ -97,32 +62,21 @@ Berkhof menekankan bahwa manusia diciptakan sebagai laki-laki dan perempuan.
 Kejadian 1:27 menyatakan bahwa Allah menciptakan manusia menurut gambar-Nya, laki-laki dan perempuan diciptakan-Nya.
 
 Hal ini mengandung beberapa makna teologis:
-
 - Laki-laki dan perempuan sama-sama memiliki martabat sebagai gambar Allah.
-    
 - Keduanya memiliki tanggung jawab terhadap Allah.
-    
 - Keduanya dipanggil untuk menjalankan mandat Allah di dalam dunia.
-    
 - Relasi manusia merupakan bagian dari rancangan penciptaan Allah.
-    
 
 ### c. Tujuan penciptaan manusia
 
 Manusia diciptakan bukan hanya untuk memenuhi kebutuhan biologis atau menjalani kehidupan duniawi.
 
 Tujuan penciptaan manusia berkaitan dengan:
-
 - Memuliakan Allah.
-    
 - Hidup dalam persekutuan dengan Allah.
-    
 - Melaksanakan kehendak Allah.
-    
 - Mengelola dan memelihara ciptaan.
-    
 - Menjalankan mandat budaya.
-    
 
 Dasar Alkitab: Kejadian 1:28; Yesaya 43:7; Kolose 1:16.
 
@@ -148,13 +102,9 @@ Dalam pandangan ini, jiwa dan roh tidak dipandang sebagai dua substansi yang ber
 ### b. Pandangan trikotomi (Trichotomy)
 
 Trikotomi merupakan pandangan bahwa manusia terdiri dari tiga unsur:
-
 1. Tubuh (body).
-    
 2. Jiwa (soul).
-    
 3. Roh (spirit).
-    
 
 Dalam pandangan ini, jiwa dan roh dianggap mempunyai fungsi atau aspek yang dapat dibedakan.
 
@@ -181,13 +131,9 @@ Dasar Alkitab: Kejadian 2:7; Matius 10:28; Pengkhotbah 12:7; 1 Korintus 5:3–5.
 Berkhof juga membahas persoalan mengenai asal mula jiwa setiap manusia.
 
 Dalam sejarah teologi terdapat tiga pandangan:
-
 - Pre-eksistensi: Jiwa manusia telah ada sebelum tubuh manusia dilahirkan.
-    
 - Tradusianisme (Traducianism): Jiwa manusia berasal melalui proses generasi atau reproduksi manusia.
-    
 - Kreasionisme (Creationism): Setiap jiwa manusia diciptakan secara langsung oleh Allah.
-    
 
 Berkhof memberikan penilaian kritis terhadap pandangan-pandangan tersebut dan cenderung mendukung kreasionisme sebagai pandangan yang lebih sesuai dengan pemahamannya terhadap Alkitab.
 
@@ -801,119 +747,51 @@ Tiga keadaan tersebut dapat diringkas melalui tabel berikut.
 |Kehendak|Selaras dengan Allah|Dipengaruhi dosa|Diperbarui|
 |Keselamatan|Belum diperlukan karena belum jatuh|Tidak mampu menyelamatkan diri|Melalui Kristus|
 
+---
 # F. Kesimpulan Umum Doktrin Manusia
 
 Berdasarkan pemikiran Louis Berkhof, terdapat lima kesimpulan utama yang perlu dipahami mahasiswa.
 
 1. Manusia adalah ciptaan Allah.
-
-Manusia bukan makhluk yang berdiri sendiri. Keberadaan, identitas, dan tujuan hidup manusia bergantung kepada Allah sebagai Pencipta.
+	- Manusia bukan makhluk yang berdiri sendiri. Keberadaan, identitas, dan tujuan hidup manusia bergantung kepada Allah sebagai Pencipta.
 
 2. Manusia diciptakan menurut gambar dan rupa Allah.
-
-Manusia memiliki martabat dan tanggung jawab khusus di antara seluruh ciptaan. Gambar Allah menjadi dasar pemahaman mengenai nilai dan kedudukan manusia.
+	- Manusia memiliki martabat dan tanggung jawab khusus di antara seluruh ciptaan. Gambar Allah menjadi dasar pemahaman mengenai nilai dan kedudukan manusia.
 
 3. Dosa merusak seluruh keberadaan manusia.
-
-Kejatuhan Adam membawa konsekuensi yang memengaruhi pikiran, kehendak, perasaan, moralitas, dan hubungan manusia dengan Allah.
+	- Kejatuhan Adam membawa konsekuensi yang memengaruhi pikiran, kehendak, perasaan, moralitas, dan hubungan manusia dengan Allah.
 
 4. Manusia tidak dapat menyelamatkan dirinya sendiri.
-
-Kerusakan akibat dosa menyebabkan manusia membutuhkan pertolongan dan keselamatan yang berasal dari Allah.
+	- Kerusakan akibat dosa menyebabkan manusia membutuhkan pertolongan dan keselamatan yang berasal dari Allah.
 
 5. Keselamatan merupakan karya anugerah Allah melalui Kristus.
-
-Perjanjian anugerah memperlihatkan bahwa Allah menyediakan jalan keselamatan melalui Yesus Kristus sebagai Mediator.
+	- Perjanjian anugerah memperlihatkan bahwa Allah menyediakan jalan keselamatan melalui Yesus Kristus sebagai Mediator.
 
 Dengan demikian, doktrin manusia tidak hanya membahas siapa manusia, tetapi juga menjelaskan mengapa manusia membutuhkan keselamatan dan bagaimana Allah memulihkan manusia melalui karya penebusan Kristus.
 
-# G. Pertanyaan Evaluasi dan Diskusi Mahasiswa
+---
+# 🎓 Diskusi & Tugas
 
 Berikut pertanyaan yang dapat digunakan sebagai bahan diskusi kelas maupun evaluasi pembelajaran.
 
 ### Pertanyaan pemahaman
 
 1. Apa yang dimaksud dengan antropologi teologis menurut perspektif Louis Berkhof?
-    
 2. Mengapa pembahasan doktrin manusia ditempatkan setelah doktrin Allah?
-    
 3. Jelaskan perbedaan pandangan dikotomi dan trikotomi mengenai natur manusia.
-    
 4. Apa yang dimaksud dengan Imago Dei?
-    
 5. Jelaskan pengertian perjanjian kerja (Covenant of Works).
-    
 6. Apa yang dimaksud dengan dosa asal (Original Sin)?
-    
 7. Jelaskan konsep kerusakan total (Total Depravity).
-    
 8. Apa perbedaan perjanjian kerja dan perjanjian anugerah?
-    
 9. Mengapa Yesus Kristus disebut sebagai Mediator dalam perjanjian anugerah?
-    
 10. Bagaimana karya Kristus memulihkan manusia yang telah jatuh ke dalam dosa?
-    
 
 ### Pertanyaan analisis dan diskusi
 
 1. Jika manusia diciptakan menurut gambar Allah, bagaimana konsep tersebut seharusnya memengaruhi cara manusia memperlakukan sesamanya?
-    
 2. Apakah manusia masih memiliki kehendak bebas setelah kejatuhan ke dalam dosa? Jelaskan berdasarkan perspektif Berkhof.
-    
 3. Bagaimana doktrin kerusakan total menjelaskan fenomena korupsi, ketidakadilan, dan kekerasan dalam masyarakat?
-    
 4. Mengapa manusia tidak dapat memperoleh keselamatan melalui perbuatan baik?
-    
 5. Bagaimana konsep perjanjian anugerah memberikan pengharapan bagi manusia yang hidup dalam dosa?
     
-
-# H. Rekomendasi Struktur Pertemuan Perkuliahan
-
-Untuk keperluan pembelajaran mahasiswa S1 Pendidikan Agama Kristen, materi ini dapat dikembangkan menjadi tiga pertemuan.
-
-|Pertemuan|Pokok pembahasan|Fokus pembelajaran|
-|---|---|---|
-|1|Manusia dalam keadaan mula-mula|Penciptaan, natur manusia, Imago Dei, perjanjian kerja.|
-|2|Manusia dalam keadaan berdosa|Asal mula dosa, hakikat dosa, dosa asal, kerusakan total, hukuman dosa.|
-|3|Manusia dalam perjanjian anugerah|Anugerah, perjanjian penebusan, perjanjian anugerah, sejarah keselamatan.|
-
-Capaian pembelajaran yang diharapkan:
-
-Setelah menyelesaikan ketiga pertemuan, mahasiswa diharapkan mampu:
-
-1. Menjelaskan konsep antropologi teologis berdasarkan pemikiran Louis Berkhof.
-    
-2. Menganalisis hakikat manusia sebagai gambar dan rupa Allah.
-    
-3. Menguraikan pengaruh kejatuhan manusia terhadap natur dan kehidupan manusia.
-    
-4. Menjelaskan konsep dosa asal dan kerusakan total dalam teologi Reformed.
-    
-5. Menganalisis hubungan antara dosa, anugerah, dan karya penebusan Kristus.
-    
-
-## I. Referensi Utama dan Bacaan Pendukung
-
-Untuk mengembangkan materi perkuliahan lebih mendalam, berikut referensi yang relevan:
-
-1. Berkhof, Louis. Teologi Sistematika Jilid 2: Doktrin Manusia. Penerjemah Yudha Thianto. Momentum. Referensi utama materi ini.
-    
-2. Millard J. Erickson. Christian Theology. Membahas antropologi teologis, gambar Allah, dosa, dan natur manusia.
-    
-3. Anthony A. Hoekema. Created in God's Image. Referensi mendalam mengenai konsep Imago Dei.
-    
-4. Herman Bavinck. Reformed Dogmatics. Pembahasan antropologi, penciptaan, dosa, dan keselamatan dalam tradisi Reformed.
-    
-
-Sumber referensi dan informasi bibliografis Berkhof:
-
-- [Teologi Sistematika 2 – Doktrin Manusia, Momentum/Reformed Evangelical Bookstore](https://www.rebuku.com/product-page/teologi-sistematika-2-doktrin-manusia?utm_source=chatgpt.com).
-    
-- [Louis Berkhof – Systematic Theology (teks bahasa Inggris)](https://christianleaders.org/pluginfile.php/115165/mod_resource/content/2/Berkhof%20Systematic%20Theology.pdf?forcedownload=1&utm_source=chatgpt.com).
-    
-- [Katalog Perpustakaan Universitas Petra](https://perpus.petra.ac.id/catalog/site/detail?id=44945&utm_source=chatgpt.com).
-    
-
-Catatan akademik: Materi di atas merupakan rangkuman dan pengembangan pedagogis berdasarkan struktur serta pemikiran utama Berkhof, bukan kutipan langsung atau reproduksi lengkap buku. Untuk pembelajaran yang mengacu pada edisi tertentu, sebaiknya cocokkan kembali istilah dan nomor halaman dengan buku fisik yang digunakan. Khususnya, konsep perjanjian kerja, transmisi dosa, dan perjanjian anugerah perlu dibahas dengan memperhatikan kerangka teologi Reformed yang digunakan Berkhof.
-
-Materi ini dapat dijadikan dasar untuk menyusun modul perkuliahan, bahan presentasi, dan diskusi akademik mengenai Doktrin Manusia dalam Teologi Sistematika.

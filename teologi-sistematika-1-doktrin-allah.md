@@ -8,7 +8,7 @@ Dalam perspektif teologi Reformed, pembahasan mengenai doktrin Allah tidak dimul
 
 Salah satu teolog Reformed yang memberikan pembahasan sistematis mengenai doktrin ini adalah Louis Berkhof dalam bukunya Systematic Theology.
 
-![|200](files/03-doktrik-allah-1.png)
+![|200](files/buku-sistematika-1.png)
 
 Menurut pendekatan Berkhof, Allah adalah pusat dari seluruh realitas dan teologi Kristen. Seluruh pembahasan mengenai penciptaan, manusia, dosa, keselamatan, gereja, dan akhir zaman harus dipahami berdasarkan keberadaan serta karya Allah.
 
@@ -22,6 +22,7 @@ Tujuan mempelajari doktrin Allah:
 
 > 🧑‍🏫 Sebagian besar pembahasan Doktrin Allah adalah pemikiran dari Louis Berkhof yang diambil dari buku Teologi Sistematika jilid 1. Karya Berkhof ini cukup banyak digunakan dan menjadi rujukan standar, terutama di kalangan teolog, pendeta, dan mahasiswa seminari berlatar belakang Protestan secara umum.
 
+---
 ## 2. Konsep Dasar Doktrin Allah
 
 Pembahasan tentang Allah menekankan bahwa Allah adalah Pribadi yang hidup, berdaulat, tidak terbatas, dan menyatakan diri-Nya kepada manusia.
@@ -37,16 +38,14 @@ Allah dapat dikenal karena Ia telah menyatakan diri-Nya kepada manusia. Penyataa
 
 > 🍎 Si comprehendis, non est Deus - St. Augustine
 
-Namun, manusia tidak mungkin memahami Allah secara sempurna karena keberadaan Allah tidak terbatas, sedangkan kemampuan manusia terbatas.
-
-Dengan demikian, terdapat perbedaan antara mengenal Allah (knowledge of God) dan memahami Allah secara menyeluruh (comprehension of God).
+Manusia tidak mungkin memahami Allah secara sempurna karena keberadaan Allah tidak terbatas, sedangkan kemampuan manusia terbatas. Dengan demikian, terdapat perbedaan antara mengenal Allah (knowledge of God) dan memahami Allah secara menyeluruh (comprehension of God).
 
 Dasar Alkitab:
-- Roma 1:19–20
-- Mazmur 19:1–7
-- Yohanes 1:18
-- Ayub 11:7–9
-- 1 Korintus 13:12
+- [Roma 1:19–20](https://alkitab.sabda.org/passage.php?passage=Roma%201:19-20)
+- [Mazmur 19:1–7](https://alkitab.sabda.org/passage.php?passage=Mazmur%2019:1–7)
+- [Yohanes 1:18](https://alkitab.sabda.org/passage.php?passage=Yohanes%201:18)
+- [Ayub 11:7–9](https://alkitab.sabda.org/passage.php?passage=Ayub%2011:7-9)
+- [1 Korintus 13:12](https://alkitab.sabda.org/passage.php?passage=1%20Korintus%2013:12)
 
 ### B. Pengetahuan tentang Allah bersumber dari penyataan Allah
 
@@ -123,20 +122,18 @@ Allah dapat dikenal karena Ia sendiri mengambil inisiatif untuk menyatakan diri-
 Ada dua bentuk penyataan:
 
 1. **Penyataan umum (*General Revelation*)**: Allah menyatakan keberadaan, kuasa, dan kemuliaan-Nya melalui:
-	- Alam semesta (Mazmur 19:1).
-	- Ciptaan (Roma 1:20).
-	- Hati nurani manusia (Roma 2:14–15).
-	- Pemeliharaan kehidupan (Kisah Para Rasul 14:17).
+	- Alam semesta ([Mazmur 19:1](https://alkitab.sabda.org/passage.php?passage=Mazmur%2019:1)).
+	- Ciptaan ([Roma 1:20](https://alkitab.sabda.org/passage.php?passage=Roma%201:20)).
+	- Hati nurani manusia ([Roma 2:14–15](https://alkitab.sabda.org/passage.php?passage=Roma%2:14-15)).
+	- Pemeliharaan kehidupan ([Kisah Para Rasul 14:17](https://alkitab.sabda.org/passage.php?passage=Kis%2014:17)).
 
 2. **Penyataan khusus (*Special Revelation*)**: Allah menyatakan diri-Nya secara khusus melalui:
 	- Firman Allah.
 	- Sejarah tindakan penyelamatan Allah.
-	- Pribadi dan karya Yesus Kristus.
+	- Pribadi dan karya Yesus Kristus
+		- Yohanes 1:18 menyatakan bahwa Anak Tunggal Allah menyatakan Bapa.
 
-Yohanes 1:18 menyatakan bahwa Anak Tunggal Allah menyatakan Bapa.
-
-Kesimpulan: Pengetahuan manusia tentang Allah merupakan hasil anugerah penyataan Allah, bukan semata-mata pencapaian intelektual manusia.
-
+> Pengetahuan manusia tentang Allah merupakan hasil anugerah penyataan Allah, bukan semata-mata pencapaian intelektual manusia.
 
 ---
 ## 5. Nama-Nama Allah (The Names of God)
@@ -195,6 +192,9 @@ Sifat-sifat ini menekankan perbedaan mendasar antara Allah dan ciptaan-Nya.
 	- Allah tidak memiliki awal dan akhir. Ia melampaui keterbatasan waktu.
 	- Referensi: Mazmur 90:2; Wahyu 1:8.
 
+> 👨‍🏫 Dalam teologi Kristen, **kekekalan Allah** bukan sekadar “waktu yang sangat panjang” atau hidup tanpa akhir. Kekekalan berarti Allah tidak dibatasi oleh waktu.
+> St. Agustinus secara khusus mengatakan bahwa kekekalan bukan waktu yang sangat panjang: dalam kekekalan Allah, seluruh kenyataan hadir tanpa ada yang berlalu.
+
 3. **Immutability (Ketidakberubahan)**
 	- Hakikat, kesempurnaan, tujuan, dan janji Allah tidak berubah.
 	- Referensi: Maleakhi 3:6; Yakobus 1:17.
@@ -213,9 +213,7 @@ Sifat-sifat ini menegaskan bahwa Allah berbeda secara ontologis dari seluruh cip
 
 ### B. Sifat Allah yang dapat dikomunikasikan
 
-Sifat-sifat ini menunjukkan kesempurnaan Allah yang dapat tercermin secara terbatas dalam kehidupan manusia.
-
-Difat-sifat ini dikelompokan dalam dimensi spiritual, intelektual, moral, dan kedaulatan.
+Sifat-sifat ini menunjukkan kesempurnaan Allah yang dapat tercermin secara terbatas dalam kehidupan manusia. Sifat-sifat ini dikelompokan dalam dimensi spiritual, intelektual, moral, dan kedaulatan.
 
 | Kelompok    | Sifat Allah    | Penjelasan                                                             |
 | ----------- | -------------- | ---------------------------------------------------------------------- |
@@ -234,27 +232,27 @@ Difat-sifat ini dikelompokan dalam dimensi spiritual, intelektual, moral, dan ke
 
 Beberapa sifat penting untuk dipahami lebih lanjut:
 
-1. Omnipotence (Mahakuasa)
+1. **Omnipotence (Mahakuasa)**
 	- Allah memiliki kuasa untuk melakukan segala sesuatu yang sesuai dengan hakikat dan kehendak-Nya. Allah tidak dapat melakukan sesuatu yang bertentangan dengan kesempurnaan-Nya, seperti berdusta atau menyangkal diri-Nya sendiri.
-	- Referensi: Kejadian 18:14; Lukas 1:37.
+	- Referensi: [Kejadian 18:14](https://alkitab.sabda.org/passage.php?passage=Kejadian18:14); [Lukas 1:37](https://alkitab.sabda.org/passage.php?passage=Lukas%201:37).
 
-2. Omniscience (Mahatahu)
+2. **Omniscience (Mahatahu)**
 	- Allah mengetahui segala sesuatu, termasuk masa lalu, masa kini, dan masa depan. Tidak ada sesuatu pun yang tersembunyi dari pengetahuan-Nya.
-	- Referensi: Mazmur 139:1–6; Ibrani 4:13.
+	- Referensi: [Mazmur 139:1–6](https://alkitab.sabda.org/passage.php?passage=Mazmur%20139:1-6); [Ibrani 4:13](https://alkitab.sabda.org/passage.php?passage=Ibrani%204:13).
 
-3. Omnipresence (Mahahadir)
+3. **Omnipresence (Mahahadir)**
 	- Allah hadir di segala tempat. Kehadiran-Nya tidak dibatasi oleh ruang.
-	- Referensi: Mazmur 139:7–10; Yeremia 23:23–24.
+	- Referensi: [Mazmur 139:7–10](https://alkitab.sabda.org/passage.php?passage=Mazmur%1139:7-10); [Yeremia 23:23–24](https://alkitab.sabda.org/passage.php?passage=Yeremia%2023:23-24).
 
-4. Holiness (Kekudusan)
+4. **Holiness (Kekudusan)**
 	- Allah sepenuhnya suci, murni, dan tidak memiliki dosa. Kekudusan merupakan karakter fundamental Allah.
-	- Referensi: Yesaya 6:3; 1 Petrus 1:15–16.
+	- Referensi: [Yesaya 6:3](https://alkitab.sabda.org/passage.php?passage=Yesaya%206:3); [1 Petrus 1:15–16](https://alkitab.sabda.org/passage.php?passage=1%20Petrus%201:15-16).
 
-5. Love (Kasih)
+5. **Love (Kasih)**
 	- Kasih merupakan bagian dari hakikat Allah. Kasih Allah dinyatakan secara nyata melalui karya keselamatan dalam Yesus Kristus.
-	- Referensi: 1 Yohanes 4:8–10.
+	- Referensi: [1 Yohanes 4:8–10](https://alkitab.sabda.org/passage.php?passage=1%20Yohanes%204:8-10).
 
-6. Justice (Keadilan)
+6. **Justice (Keadilan)**
 	- Allah selalu bertindak benar dan tidak melakukan ketidakadilan. Ia menghakimi manusia berdasarkan kebenaran.
 	- Referensi: Ulangan 32:4; Roma 2:6.
 
@@ -345,11 +343,11 @@ Ketiga Pribadi memiliki karya yang berbeda secara personal, tetapi tidak terpisa
 | Anak      | Menebus manusia melalui kematian dan kebangkitan-Nya         | Efesus 1:7–12  |
 | Roh Kudus | Memeteraikan dan menerapkan keselamatan kepada orang percaya | Efesus 1:13–14 |
 
-Penting: Pembagian karya tersebut tidak berarti bahwa ketiga Pribadi bekerja secara terpisah. Dalam teologi klasik, karya *Allah ke luar* (*opera ad extra*) merupakan karya Allah Tritunggal yang satu, meskipun tindakan tertentu dapat secara khusus dikaitkan dengan salah satu Pribadi.
+> 🔴 Pembagian karya tersebut tidak berarti bahwa ketiga Pribadi bekerja secara terpisah. Dalam teologi klasik, karya *Allah ke luar* (*opera ad extra*) merupakan karya Allah Tritunggal yang satu, meskipun tindakan tertentu dapat secara khusus dikaitkan dengan salah satu Pribadi.
 
 ### Perkembangan Historis Doktrin Tritunggal
 
-Untuk memahami doktrin Tritunggal menurut Berkhof, penting untuk mengetahui bagaimana gereja mula-mula merumuskan ajaran ini.
+Untuk memahami doktrin Tritunggal, adalah penting untuk mengetahui bagaimana gereja mula-mula merumuskan ajaran ini.
 
 Doktrin Tritunggal tidak dirumuskan dalam satu waktu. Gereja mula-mula menghadapi berbagai pertanyaan teologis mengenai hubungan antara Bapa, Anak, dan Roh Kudus.
 
@@ -430,7 +428,7 @@ Yesus Kristus bukan makhluk ciptaan, melainkan Allah sejati yang memiliki hakika
 
 ## 4.3. Konsili Konstantinopel (381 M)
 
-![](files/Pasted%20image%2020261119211627.png)
+![](files/tritunggal-5.png)
 
 Konsili Konstantinopel pada tahun 381 M memperkuat rumusan Nicea dan memberikan penegasan lebih lanjut mengenai keilahian Roh Kudus.
 

@@ -1,5 +1,6 @@
 # Perkembangan Doktrin Tritunggal dalam Sejarah Teologi Kristen
 
+![](files/mcgrath-christian-theology.png)
 Berdasarkan Alister E. McGrath (2016), Christian Theology: An Introduction
 
 ## 1. Pendahuluan
@@ -96,9 +97,7 @@ Ia menggunakan istilah:
 - *Una substantia*: satu substansi atau hakikat.
 - *Tres personae*: tiga pribadi.
 
-Rumusan ini menjadi salah satu fondasi penting bagi perkembangan terminologi Tritunggal dalam tradisi teologi Barat.
-
-Tertulianus berusaha menjelaskan bahwa Bapa, Anak, dan Roh Kudus berbeda sebagai pribadi, tetapi tidak berarti terdapat tiga Allah yang terpisah.
+Rumusan ini menjadi salah satu fondasi penting bagi perkembangan terminologi Tritunggal dalam tradisi teologi Barat. Tertulianus berusaha menjelaskan bahwa Bapa, Anak, dan Roh Kudus berbeda sebagai pribadi, tetapi tidak berarti terdapat tiga Allah yang terpisah.
 
 #### Kontroversi Modalisme
 
@@ -120,7 +119,7 @@ Salah satu peristiwa terpenting dalam sejarah doktrin Tritunggal adalah Konsili 
 
 Konsili ini diselenggarakan untuk menyelesaikan kontroversi Arianisme yang berkaitan dengan hubungan Allah Bapa dan Yesus Kristus.
 
-Ajaran Arius
+#### Ajaran Arius
 
 Arius mengajarkan bahwa Anak tidak kekal seperti Bapa. Anak merupakan ciptaan Allah dan memiliki kedudukan tertinggi di antara seluruh ciptaan.
 
@@ -128,16 +127,12 @@ Dengan demikian, menurut pandangan Arius, Anak tidak memiliki hakikat keilahian 
 
 Pandangan ini menimbulkan persoalan besar bagi gereja karena jika Kristus merupakan makhluk ciptaan, bagaimana Ia dapat menjadi Juruselamat yang membawa manusia kepada Allah?
 
-Keputusan Konsili Nicea
+#### Keputusan Konsili Nicea
 
 Konsili Nicea menegaskan bahwa Yesus Kristus adalah:
-
 - Allah sejati dari Allah sejati.
-    
 - Diperanakkan, bukan dijadikan.
-    
 - Sehakikat dengan Bapa (homoousios).
-    
 
 Istilah homoousios berarti memiliki hakikat atau substansi yang sama.
 
@@ -158,25 +153,18 @@ Sebagian kelompok, yang sering dikaitkan dengan kaum Pneumatomakhian atau Makedo
 
 Mereka menganggap Roh Kudus bukan Allah dalam pengertian yang sama dengan Bapa dan Anak.
 
-Kontribusi para Bapa Kapadokia
+#### Kontribusi para Bapa Kapadokia
 
 Tiga tokoh penting yang memberikan kontribusi terhadap perkembangan doktrin Tritunggal adalah:
-
 1. Basil dari Kaisarea (330–379 M): menegaskan keilahian Roh Kudus dan menjelaskan hubungan antara satu hakikat dan tiga pribadi.
-    
 2. Gregorius dari Nazianzus (329–390 M): menegaskan kesetaraan keilahian Bapa, Anak, dan Roh Kudus.
-    
 3. Gregorius dari Nyssa (335–395 M): mengembangkan penjelasan filosofis dan teologis mengenai kesatuan hakikat Allah dalam tiga pribadi.
-    
 
 Mereka membantu memperjelas terminologi:
-
 - Ousia: hakikat atau esensi Allah.
-    
 - Hypostasis: pribadi atau keberadaan personal.
-    
 
-Keputusan Konsili Konstantinopel (381 M)
+#### Keputusan Konsili Konstantinopel (381 M)
 
 Konsili ini memperkuat pengakuan iman Nicea dan menegaskan keilahian Roh Kudus.
 
@@ -188,9 +176,7 @@ Inti perkembangan: Konsili Konstantinopel mempertegas bahwa Roh Kudus juga memil
 
 ### E. Periode Agustinus (Abad IV–V): Pengembangan Pemahaman Teologis Tritunggal
 
-["Journaling" con San Agustín: conversaciones y confesiones](https://images.openai.com/static-rsc-4/5AQzl4qkDZZCCAkCGSPhA7apdlETxQd-axQgzj3aflNXiJV3e4pb21s8q7kfPBoLcPCc380VhCZQ6CFTfXVFRNOG9Q3Vt7OEJMmqInu6JpHds_Pg_6yMc9862EVpTRIs83iTUgiDquu5gAguR6dl3Iry3Q8qkq8uIG39YDEOtww?purpose=inline)
-
-[es.aleteia.org](https://es.aleteia.org/2025/08/28/journaling-con-san-agustin-conversaciones-y-confesiones/?utm_source=chatgpt.com)
+![](files/agustinus.png)
 
 Setelah Konsili Nicea dan Konstantinopel, perkembangan doktrin Tritunggal semakin diarahkan pada pemahaman hubungan antara ketiga pribadi Allah.
 
@@ -201,38 +187,23 @@ Melalui karyanya De Trinitate (Tentang Tritunggal), Agustinus berusaha menjelask
 Beberapa pokok pemikirannya:
 
 1. Kesatuan hakikat Allah
-
-Agustinus menekankan bahwa Bapa, Anak, dan Roh Kudus bukan tiga Allah yang berbeda. Ketiganya memiliki satu hakikat ilahi yang sama.
+	- Agustinus menekankan bahwa Bapa, Anak, dan Roh Kudus bukan tiga Allah yang berbeda. Ketiganya memiliki satu hakikat ilahi yang sama.
 
 2. Relasi antara ketiga pribadi
-
-Perbedaan antara Bapa, Anak, dan Roh Kudus tidak terletak pada tingkat keilahian, melainkan pada relasi pribadi masing-masing.
-
-- Bapa bukan Anak.
-    
-- Anak bukan Roh Kudus.
-    
-- Roh Kudus bukan Bapa.
-    
-
-Namun, ketiganya adalah satu Allah.
+	- Perbedaan antara Bapa, Anak, dan Roh Kudus tidak terletak pada tingkat keilahian, melainkan pada relasi pribadi masing-masing.
+		- Bapa bukan Anak.
+		- Anak bukan Roh Kudus.
+		- Roh Kudus bukan Bapa.
+	- Namun, ketiganya adalah satu Allah.
 
 3. Analogi pikiran manusia
-
-Agustinus menggunakan analogi kehidupan batin manusia untuk membantu menjelaskan Tritunggal.
-
-Salah satu analoginya adalah:
-
-- Pikiran (mens).
-    
-- Pengetahuan atau pengertian (notitia).
-    
-- Kasih (amor).
-    
-
-Ketiganya dapat dibedakan, tetapi berada dalam satu kehidupan batin manusia.
-
-Analogi ini bukan berarti manusia merupakan gambaran sempurna Allah Tritunggal. Agustinus menggunakannya sebagai alat bantu untuk memahami kesatuan dan relasi.
+	- Agustinus menggunakan analogi kehidupan batin manusia untuk membantu menjelaskan Tritunggal.
+	- Salah satu analoginya adalah:
+		- Pikiran (mens).
+		- Pengetahuan atau pengertian (notitia).
+		- Kasih (amor).
+	- Ketiganya dapat dibedakan, tetapi berada dalam satu kehidupan batin manusia.
+	- Analogi ini bukan berarti manusia merupakan gambaran sempurna Allah Tritunggal. Agustinus menggunakannya sebagai alat bantu untuk memahami kesatuan dan relasi.
 
 Inti perkembangan: Agustinus memperdalam penjelasan teologis mengenai kesatuan hakikat Allah dan relasi tiga pribadi dalam Tritunggal.
 
@@ -240,11 +211,7 @@ Inti perkembangan: Agustinus memperdalam penjelasan teologis mengenai kesatuan h
 
 ![](files/tritunggal-2.png)
 
-Pada Abad Pertengahan, doktrin Tritunggal terus dikembangkan melalui pendekatan filsafat dan teologi sistematis.
-
-Tokoh yang sangat berpengaruh adalah Thomas Aquinas (1225–1274).
-
-Dalam karya *Summa Theologiae*, Aquinas menjelaskan doktrin Tritunggal melalui pendekatan metafisika dan konsep relasi.
+Pada Abad Pertengahan, doktrin Tritunggal terus dikembangkan melalui pendekatan filsafat dan teologi sistematis. Tokoh yang sangat berpengaruh adalah Thomas Aquinas (1225–1274). Dalam karya *Summa Theologiae*, Aquinas menjelaskan doktrin Tritunggal melalui pendekatan metafisika dan konsep relasi.
 
 Beberapa penekanan pemikirannya:
 1. Allah memiliki satu esensi atau hakikat ilahi.
@@ -252,7 +219,6 @@ Beberapa penekanan pemikirannya:
 3. Perbedaan pribadi didasarkan pada relasi asal-usul (relations of origin).
 4. Anak berasal dari Bapa melalui proses diperanakkan secara kekal (eternal generation).
 5. Roh Kudus berasal dari Bapa dan Anak menurut tradisi teologi Barat (filioque).
-    
 
 #### Perdebatan Filioque
 
@@ -309,9 +275,7 @@ Deisme dan Unitarianisme merupakan contoh perkembangan pemikiran yang menolak at
 
 #### 2. Friedrich Schleiermacher (1768–1834)
 
-Schleiermacher menempatkan pengalaman religius manusia sebagai unsur penting dalam teologi.
-
-Dalam pemikirannya, doktrin Tritunggal tidak mendapatkan posisi yang sama seperti dalam teologi klasik. Ia membahasnya sebagai bagian dari refleksi sistematis mengenai iman Kristen.
+Schleiermacher menempatkan pengalaman religius manusia sebagai unsur penting dalam teologi. Dalam pemikirannya, doktrin Tritunggal tidak mendapatkan posisi yang sama seperti dalam teologi klasik. Ia membahasnya sebagai bagian dari refleksi sistematis mengenai iman Kristen.
 
 #### 3. Karl Barth (1886–1968)
 
@@ -330,9 +294,7 @@ Barth menegaskan bahwa Allah dikenal bukan karena manusia mampu menemukan-Nya me
 
 #### 4. Jürgen Moltmann (1926–2024)
 
-Moltmann mengembangkan pendekatan sosial terhadap Tritunggal (Social Trinity).
-
-Ia memberikan perhatian pada relasi dan persekutuan antara Bapa, Anak, dan Roh Kudus.
+Moltmann mengembangkan pendekatan sosial terhadap Tritunggal (Social Trinity). Ia memberikan perhatian pada relasi dan persekutuan antara Bapa, Anak, dan Roh Kudus.
 
 Pemikirannya menekankan bahwa kehidupan Allah Tritunggal merupakan kehidupan persekutuan dan kasih.
 
@@ -381,7 +343,7 @@ Artinya:
 
 Ketiga pribadi memiliki keilahian yang sama, kekal, dan tidak terbagi.
 
-![](files/Pasted%20image%2020261119202028.png)
+![](files/tritunggal-6.png)
 
 ### B. Kesetaraan Ketiga Pribadi
 
