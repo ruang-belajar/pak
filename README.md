@@ -17,3 +17,12 @@
 13. Keberagaman dan tanggung jawab kebangsaan  
 14. Lingkungan, keadilan sosial, dan pelayanan 
 
+---
+---
+
+**keterangan:**
+- 🔵 poin pembahasan khusus
+- ‼️ penekanan
+- 🧑‍🏫 catatan pengajar
+- 🎓 bahan diskusi / tugas
+- 🍎 kutipan

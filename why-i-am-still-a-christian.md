@@ -130,8 +130,3 @@ Küng juga memberikan sorotan tajam pada isu perpecahan denominasi, mempertanyak
 
 ---
 ---
-**keterangan:**
-- 🔵 poin
-- ‼️ penekanan
-- 🧑‍🏫 catatan pengajar
-- 🎓 bahan diskusi

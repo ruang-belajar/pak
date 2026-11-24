@@ -31,11 +31,6 @@ Ada beberapa prinsip mendasar yang perlu dipahami.
 
 ### A. Allah dapat dikenal, tetapi tidak dapat dipahami secara sempurna oleh manusia
 
-Allah dapat dikenal karena Ia telah menyatakan diri-Nya kepada manusia. Penyataan tersebut terutama diberikan melalui:
-- **Penyataan umum (*General Revelation*)**: Allah menyatakan keberadaan dan kemuliaan-Nya melalui alam semesta, ciptaan, dan hati nurani manusia.
-	- 🧑‍🏫 Semua orang bisa melihatnya, orang percaya maupun tidak percaya.
-- **Penyataan khusus (*Special Revelation*)**: Allah menyatakan diri-Nya secara khusus melalui firman-Nya dan puncaknya dalam pribadi Yesus Kristus.
-
 > 🍎 Si comprehendis, non est Deus - St. Augustine
 
 Manusia tidak mungkin memahami Allah secara sempurna karena keberadaan Allah tidak terbatas, sedangkan kemampuan manusia terbatas. Dengan demikian, terdapat perbedaan antara mengenal Allah (knowledge of God) dan memahami Allah secara menyeluruh (comprehension of God).
@@ -122,6 +117,7 @@ Allah dapat dikenal karena Ia sendiri mengambil inisiatif untuk menyatakan diri-
 Ada dua bentuk penyataan:
 
 1. **Penyataan umum (*General Revelation*)**: Allah menyatakan keberadaan, kuasa, dan kemuliaan-Nya melalui:
+	- 🧑‍🏫 Semua orang bisa melihatnya, orang percaya maupun tidak percaya.
 	- Alam semesta ([Mazmur 19:1](https://alkitab.sabda.org/passage.php?passage=Mazmur%2019:1)).
 	- Ciptaan ([Roma 1:20](https://alkitab.sabda.org/passage.php?passage=Roma%201:20)).
 	- Hati nurani manusia ([Roma 2:14–15](https://alkitab.sabda.org/passage.php?passage=Roma%2:14-15)).
