@@ -88,15 +88,7 @@ Topik ini membahas unsur-unsur yang membentuk keberadaan manusia.
 
 Terdapat dua pandangan utama dalam sejarah pemikiran Kristen mengenai struktur manusia, yaitu dikotomi dan trikotomi.
 
-### a. Pandangan dikotomi (Dichotomy)
-
-Dikotomi merupakan pandangan bahwa natur manusia terdiri dari dua unsur utama:
-1. Tubuh (body): Unsur material yang bersifat jasmani.
-2. Jiwa atau roh (soul/spirit): Unsur nonmaterial yang berkaitan dengan kehidupan batin manusia.
-
-Dalam pandangan ini, jiwa dan roh tidak dipandang sebagai dua substansi yang berbeda secara mendasar.
-
-### b. Pandangan trikotomi (Trichotomy)
+### a. Pandangan trikotomi (Trichotomy)
 
 Trikotomi merupakan pandangan bahwa manusia terdiri dari tiga unsur:
 1. Tubuh (body).
@@ -105,9 +97,28 @@ Trikotomi merupakan pandangan bahwa manusia terdiri dari tiga unsur:
 
 Dalam pandangan ini, jiwa dan roh dianggap mempunyai fungsi atau aspek yang dapat dibedakan.
 
-### c. Pandangan Berkhof
+Dasar Alkitab:
+- 1 Tesalonika 5:23 → Paulus menyebutkan roh, jiwa, dan tubuh ketika berdoa agar seluruh keberadaan manusia dipelihara dengan sempurna sampai kedatangan Kristus.
+- Ibrani 4:12 → jiwa dan roh merupakan dua aspek yang dapat dibedakan.
+- 1 Korintus 2:14–15 → Paulus membedakan manusia duniawi (_natural man_) dengan manusia rohani (_spiritual man_).
 
-Posisi Berkhof: Dikotomi
+### b. Pandangan dikotomi (Dichotomy)
+
+Dikotomi merupakan pandangan bahwa natur manusia terdiri dari dua unsur utama:
+1. Tubuh (body): Unsur material yang bersifat jasmani.
+2. Jiwa atau roh (soul/spirit): Unsur nonmaterial yang berkaitan dengan kehidupan batin manusia.
+
+Dalam pandangan ini, jiwa dan roh tidak dipandang sebagai dua substansi yang berbeda secara mendasar, tetapi tidak dapat dipahami secara terpisah dari kesatuan pribadi manusia.
+
+Dikotomi tidak mengajarkan bahwa tubuh lebih rendah daripada jiwa atau roh. Keduanya merupakan bagian dari rancangan penciptaan Allah. Karena itu, manusia harus dipahami sebagai kesatuan tubuh dan jiwa yang diciptakan untuk hidup dalam hubungan dengan Allah.
+
+Dasar Alkitab:
+- Kejadian 2:7 → Allah membentuk manusia dari debu tanah dan mengembuskan napas hidup ke dalam hidungnya sehingga manusia menjadi makhluk yang hidup.
+- Matius 10:28 → Yesus membedakan tubuh yang dapat dibunuh manusia dengan jiwa yang tidak dapat dibunuh manusia.
+- Pengkhotbah 12:7 → Tubuh kembali menjadi debu tanah, sedangkan roh kembali kepada Allah yang mengaruniakannya.
+- 1 Korintus 5:3–5 → Paulus menggunakan istilah roh dan tubuh ketika membahas keberadaan manusia, yang menunjukkan adanya dimensi jasmani dan non jasmani.
+
+### c. Pandangan Berkhof
 
 Berkhof menerima pandangan dikotomi. Ia berpendapat bahwa Alkitab pada dasarnya mengajarkan dua unsur konstitusional manusia, yaitu unsur material dan nonmaterial.
 
@@ -121,20 +132,18 @@ Manusia harus dipahami sebagai satu kesatuan yang utuh.
 | Jiwa  | Aspek nonmaterial yang berkaitan dengan kehidupan batin dan kesadaran.              |
 | Roh   | Istilah yang dalam Alkitab juga digunakan untuk menunjuk aspek nonmaterial manusia. |
 
-Dasar Alkitab: Kejadian 2:7; Matius 10:28; Pengkhotbah 12:7; 1 Korintus 5:3–5.
+#### Pandangan Berkhof terhadap trikotomi
 
-### d. Asal mula jiwa manusia
+Berkhof memberikan perhatian pada 1 Tesalonika 5:23 yang sering digunakan sebagai dasar trikotomi.
 
-Berkhof juga membahas persoalan mengenai asal mula jiwa setiap manusia.
+Dalam ayat tersebut, Paulus menyebut roh, jiwa, dan tubuh.
 
-Dalam sejarah teologi terdapat tiga pandangan:
-- Pre-eksistensi: Jiwa manusia telah ada sebelum tubuh manusia dilahirkan.
-- Tradusianisme (Traducianism): Jiwa dan tubuh manusia berasal melalui proses generasi atau reproduksi manusia.
-- Kreasionisme (Creationism): Setiap jiwa manusia diciptakan secara langsung oleh Allah.
+Namun, Berkhof berpendapat bahwa penyebutan ketiganya dapat dipahami sebagai cara untuk menekankan seluruh keberadaan manusia.
 
-Berkhof memberikan penilaian kritis terhadap pandangan-pandangan tersebut dan cenderung mendukung kreasionisme sebagai pandangan yang lebih sesuai dengan pemahamannya terhadap Alkitab.
+Dengan kata lain, ayat tersebut tidak harus ditafsirkan sebagai bukti bahwa manusia terdiri dari tiga substansi.
 
-Inti pembelajaran: Manusia bukan hanya tubuh biologis, tetapi merupakan pribadi utuh yang memiliki dimensi material dan nonmaterial.
+Hal ini serupa dengan cara Alkitab menggunakan beberapa istilah untuk menggambarkan keseluruhan pribadi manusia.
+
 
 ---
 ## 3. Manusia sebagai Gambar dan Rupa Allah
