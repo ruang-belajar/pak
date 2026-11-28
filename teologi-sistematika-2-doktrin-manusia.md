@@ -6,21 +6,21 @@ Berdasarkan Louis Berkhof – Teologi Sistematika Jilid 2: Doktrin Manusia
 
 ## 1. Pengertian antropologi teologis
 
-Antropologi teologis (Theological Anthropology) adalah cabang teologi sistematika yang mempelajari manusia berdasarkan penyataan Allah dalam Alkitab.
+🔵 Antropologi teologis (Theological Anthropology) adalah cabang teologi sistematika yang mempelajari manusia berdasarkan penyataan Allah dalam Alkitab.
 
-Dalam pemikiran Louis Berkhof, doktrin manusia merupakan bagian penting dalam teologi sistematika karena manusia bukan hanya bagian dari ciptaan Allah, melainkan juga objek perhatian, pemeliharaan, dan karya penebusan Allah.
+🔵 Dalam pemikiran Louis Berkhof, doktrin manusia merupakan bagian penting dalam teologi sistematika karena manusia bukan hanya bagian dari ciptaan Allah, melainkan juga objek perhatian, pemeliharaan, dan karya penebusan Allah.
 
 Pembahasan mengenai manusia secara alami mengikuti pembahasan mengenai Allah. Setelah memahami siapa Allah sebagai Pencipta, manusia perlu memahami siapa dirinya sebagai ciptaan dan bagaimana hubungannya dengan Allah.
 
 Antropologi teologis berbeda dengan antropologi umum.
 
-|Antropologi umum|Antropologi teologis|
-|---|---|
-|Mempelajari manusia melalui ilmu pengetahuan.|Mempelajari manusia berdasarkan penyataan Allah.|
-|Meneliti aspek biologis, sosial, budaya, dan psikologis.|Meneliti hakikat, asal-usul, tujuan, dan kondisi rohani manusia.|
-|Menggunakan metode ilmiah dan empiris.|Menggunakan Alkitab sebagai sumber utama.|
+| Antropologi umum                                         | Antropologi teologis                                             |
+| -------------------------------------------------------- | ---------------------------------------------------------------- |
+| Mempelajari manusia melalui ilmu pengetahuan.            | Mempelajari manusia berdasarkan penyataan Allah.                 |
+| Meneliti aspek biologis, sosial, budaya, dan psikologis. | Meneliti hakikat, asal-usul, tujuan, dan kondisi rohani manusia. |
+| Menggunakan metode ilmiah dan empiris.                   | Menggunakan Alkitab sebagai sumber utama.                        |
 
-Inti pemikiran Berkhof: Manusia hanya dapat memahami identitas, hakikat, dan tujuan hidupnya secara benar apabila ia memahami hubungannya dengan Allah.
+🔵 Inti pemikiran Berkhof: Manusia hanya dapat memahami identitas, hakikat, dan tujuan hidupnya secara benar apabila ia memahami hubungannya dengan Allah.
 
 ---
 ## 2. Struktur pembahasan Doktrin Manusia 
@@ -41,7 +41,7 @@ Ketiga bagian tersebut memperlihatkan perjalanan pemahaman teologis mengenai man
 
 ## 1. Asal Mula Manusia
 
-### a. Manusia adalah ciptaan Allah
+### a. 🔵 Manusia adalah ciptaan Allah
 
 Manusia bukan hasil kebetulan atau keberadaan yang berdiri sendiri. Manusia merupakan ciptaan Allah yang secara khusus dibentuk menurut kehendak dan rancangan-Nya.
 
@@ -56,7 +56,7 @@ Penciptaan manusia memiliki beberapa karakteristik penting:
 3. Memiliki tujuan: Manusia diciptakan untuk hidup dalam hubungan dengan Allah dan menjalankan tanggung jawab dalam ciptaan.
 4. Memiliki ketergantungan: Manusia bukan makhluk yang otonom secara mutlak, melainkan selalu bergantung kepada Penciptanya.
 
-### b. Penciptaan laki-laki dan perempuan
+### b. 🔵 Penciptaan laki-laki dan perempuan
 
 Manusia diciptakan sebagai laki-laki dan perempuan. Kejadian 1:27 menyatakan bahwa Allah menciptakan manusia menurut gambar-Nya, laki-laki dan perempuan diciptakan-Nya.
 
@@ -64,13 +64,13 @@ Hal ini mengandung beberapa makna teologis:
 - Laki-laki dan perempuan sama-sama memiliki martabat sebagai gambar Allah.
 - Keduanya memiliki tanggung jawab terhadap Allah.
 - Keduanya dipanggil untuk menjalankan mandat Allah di dalam dunia.
-- Relasi manusia merupakan bagian dari rancangan penciptaan Allah.
+- ‼️ Relasi manusia merupakan bagian dari rancangan penciptaan Allah.
 
-### c. Tujuan penciptaan manusia
+### c. 🔵 Tujuan penciptaan manusia
 
 Manusia diciptakan bukan hanya untuk memenuhi kebutuhan biologis atau menjalani kehidupan duniawi.
 
-Tujuan penciptaan manusia berkaitan dengan:
+‼️ Tujuan penciptaan manusia berkaitan dengan:
 - Memuliakan Allah.
 - Hidup dalam persekutuan dengan Allah.
 - Melaksanakan kehendak Allah.
@@ -79,16 +79,16 @@ Tujuan penciptaan manusia berkaitan dengan:
 
 Dasar Alkitab: Kejadian 1:28; Yesaya 43:7; Kolose 1:16.
 
-Kesimpulan: Manusia adalah ciptaan Allah yang memiliki martabat, tujuan, dan tanggung jawab. Identitas manusia tidak dapat dipisahkan dari hubungannya dengan Allah.
+‼️ Manusia adalah ciptaan Allah yang memiliki martabat, tujuan, dan tanggung jawab. Identitas manusia tidak dapat dipisahkan dari hubungannya dengan Allah.
 
 ---
-## 2. Natur Konstitusional Manusia
+## 2. Natur Manusia
 
 Topik ini membahas unsur-unsur yang membentuk keberadaan manusia.
 
 Terdapat dua pandangan utama dalam sejarah pemikiran Kristen mengenai struktur manusia, yaitu dikotomi dan trikotomi.
 
-### a. Pandangan trikotomi (Trichotomy)
+### a. 🔵 Pandangan trikotomi (Trichotomy)
 
 Trikotomi merupakan pandangan bahwa manusia terdiri dari tiga unsur:
 1. Tubuh (body).
@@ -102,7 +102,7 @@ Dasar Alkitab:
 - Ibrani 4:12 → jiwa dan roh merupakan dua aspek yang dapat dibedakan.
 - 1 Korintus 2:14–15 → Paulus membedakan manusia duniawi (_natural man_) dengan manusia rohani (_spiritual man_).
 
-### b. Pandangan dikotomi (Dichotomy)
+### b. 🔵 Pandangan dikotomi (Dichotomy)
 
 Dikotomi merupakan pandangan bahwa natur manusia terdiri dari dua unsur utama:
 1. Tubuh (body): Unsur material yang bersifat jasmani.
@@ -118,19 +118,23 @@ Dasar Alkitab:
 - Pengkhotbah 12:7 → Tubuh kembali menjadi debu tanah, sedangkan roh kembali kepada Allah yang mengaruniakannya.
 - 1 Korintus 5:3–5 → Paulus menggunakan istilah roh dan tubuh ketika membahas keberadaan manusia, yang menunjukkan adanya dimensi jasmani dan non jasmani.
 
-### c. Pandangan Berkhof
+>🎓 apa yang Anda percaya tentang natur manusia?
+
+### c. 🔵 Pandangan Berkhof
 
 Berkhof menerima pandangan dikotomi. Ia berpendapat bahwa Alkitab pada dasarnya mengajarkan dua unsur konstitusional manusia, yaitu unsur material dan nonmaterial.
 
 Namun, hal ini tidak berarti manusia merupakan dua bagian yang terpisah dan tidak berhubungan.
 
-Manusia harus dipahami sebagai satu kesatuan yang utuh.
+**Manusia harus dipahami sebagai satu kesatuan yang utuh.**
 
 | Aspek | Penjelasan                                                                          |
 | ----- | ----------------------------------------------------------------------------------- |
 | Tubuh | Aspek material manusia yang berhubungan dengan dunia fisik.                         |
 | Jiwa  | Aspek nonmaterial yang berkaitan dengan kehidupan batin dan kesadaran.              |
 | Roh   | Istilah yang dalam Alkitab juga digunakan untuk menunjuk aspek nonmaterial manusia. |
+
+>🧑‍🏫 yang penting adalah memahami apa implikasinya kepada kehidupan kita.
 
 #### Pandangan Berkhof terhadap trikotomi
 
@@ -149,7 +153,7 @@ Hal ini serupa dengan cara Alkitab menggunakan beberapa istilah untuk menggambar
 ## 3. Manusia sebagai Gambar dan Rupa Allah
 
 ![](files/creation-of-adam.png)
-Salah satu pembahasan paling penting dalam antropologi teologis Berkhof adalah manusia sebagai gambar dan rupa Allah (Image of God / Imago Dei).
+🔵 Salah satu pembahasan paling penting dalam antropologi teologis Berkhof adalah manusia sebagai gambar dan rupa Allah (Image of God / Imago Dei).
 
 Dasar utama: Kejadian 1:26–27.
 
@@ -157,7 +161,7 @@ Allah berfirman bahwa manusia diciptakan menurut gambar dan rupa-Nya.
 
 Pertanyaan penting yang perlu dijawab adalah: Apa makna manusia diciptakan menurut gambar dan rupa Allah?
 
-### a. Pengertian Imago Dei
+### a. 🔵 Pengertian Imago Dei
 
 *Imago Dei* berarti gambar Allah. Istilah ini menjelaskan bahwa manusia memiliki karakteristik tertentu yang mencerminkan Allah sebagai Penciptanya.
 
@@ -177,7 +181,9 @@ Misalnya:
 
 Aspek ini membedakan manusia dari makhluk ciptaan lainnya dalam kedudukannya sebagai pribadi.
 
-#### 2. Gambar Allah dalam pengertian sempit (Narrow Sense)
+>🧑‍🏫 manusia "bukan sekedar" mahluk hidup. Ini sebabnya mengapa manusia diperlakukan berbeda dengan binatang dan kita harus menghormati sesama, karena mereka adalah *gambar Allah*.
+
+#### 2. 🔵 Gambar Allah dalam pengertian sempit (Narrow Sense)
 
 Dalam pengertian sempit, gambar Allah terutama menunjuk pada kualitas moral dan rohani manusia sebelum kejatuhan ke dalam dosa.
 
@@ -190,23 +196,21 @@ Dasar Alkitab: Kolose 3:10 dan Efesus 4:24.
 
 Ketiga aspek tersebut menggambarkan kondisi manusia sebelum kejatuhan, ketika manusia hidup dalam keselarasan dengan kehendak Allah.
 
-### b. Dampak dosa terhadap gambar Allah
+### 🔵 b. Dampak dosa terhadap gambar Allah
 
-Ketika manusia jatuh ke dalam dosa, gambar Allah mengalami kerusakan.
-
-Namun, kerusakan tersebut tidak berarti gambar Allah sepenuhnya hilang.
+Ketika manusia jatuh ke dalam dosa, gambar Allah mengalami kerusakan. Namun, kerusakan tersebut tidak berarti gambar Allah sepenuhnya hilang.
 
 Ada dua hal yang harus dibedakan:
 
-|Aspek|Sebelum kejatuhan|Setelah kejatuhan|
-|---|---|---|
-|Rasionalitas|Diciptakan dengan kemampuan berpikir.|Tetap memiliki kemampuan berpikir, tetapi dapat dipengaruhi dosa.|
-|Kehendak|Memiliki kebebasan untuk menaati Allah.|Kehendak telah dipengaruhi dan diperbudak dosa.|
-|Moralitas|Diciptakan dalam kebenaran dan kekudusan.|Mengalami kerusakan moral.|
-|Relasi dengan Allah|Hidup dalam persekutuan dengan Allah.|Mengalami keterpisahan secara rohani.|
-|Gambar Allah|Dalam keadaan awal yang baik.|Tetap ada, tetapi telah mengalami kerusakan.|
+| Aspek               | Sebelum kejatuhan                         | Setelah kejatuhan                                                 |
+| ------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
+| Rasionalitas        | Diciptakan dengan kemampuan berpikir.     | Tetap memiliki kemampuan berpikir, tetapi dapat dipengaruhi dosa. |
+| Kehendak            | Memiliki kebebasan untuk menaati Allah.   | Kehendak telah dipengaruhi dan diperbudak dosa.                   |
+| Moralitas           | Diciptakan dalam kebenaran dan kekudusan. | Mengalami kerusakan moral.                                        |
+| Relasi dengan Allah | Hidup dalam persekutuan dengan Allah.     | Mengalami keterpisahan secara rohani.                             |
+| Gambar Allah        | Dalam keadaan awal yang baik.             | Tetap ada, tetapi telah mengalami kerusakan.                      |
 
-### c. Pemulihan gambar Allah
+### c. 🔵 Pemulihan gambar Allah
 
 Melalui karya keselamatan Kristus, manusia mengalami proses pemulihan gambar Allah.
 
@@ -215,16 +219,15 @@ Dasar Alkitab:
 - Kolose 3:10.
 - Efesus 4:24.
 
-Pemulihan tersebut berkaitan dengan proses pengudusan, yaitu pembaruan manusia agar semakin menyerupai Kristus.
+Pemulihan tersebut berkaitan dengan proses pengudusan, yaitu pembaruan manusia agar semakin menyerupai Kristus melalui karya penebusan yang dikerjakan-Nya
 
-Kesimpulan: Manusia memiliki martabat karena diciptakan menurut gambar Allah. Meskipun dosa merusak gambar tersebut, Allah menyediakan pemulihan melalui karya penebusan Kristus.
 
 ---
-## 4. Manusia dalam Perjanjian Kerja (Covenant of Works)
+## 4. Manusia dalam Perjanjian Kerja (Covenant of Works / Foedus Operum)
 
 Berkhof membahas bahwa hubungan Allah dengan manusia pada awal penciptaan dapat dipahami melalui konsep perjanjian kerja.
 
-### a. Pengertian perjanjian kerja
+### a. 🔵 Pengertian perjanjian kerja
 
 Perjanjian kerja merupakan konsep teologis yang menjelaskan hubungan antara Allah dan Adam sebagai wakil umat manusia sebelum kejatuhan dalam dosa.
 
@@ -239,15 +242,15 @@ Dasar Alkitab: Kejadian 2:16–17; Roma 5:12–19.
 
 ### b. Unsur-unsur perjanjian kerja
 
-|Unsur|Penjelasan|
-|---|---|
-|Pihak yang mengadakan|Allah dan Adam sebagai wakil manusia.|
-|Tuntutan|Ketaatan terhadap perintah Allah.|
-|Larangan|Tidak memakan buah pohon pengetahuan tentang yang baik dan yang jahat.|
-|Janji|Kehidupan sebagai konsekuensi ketaatan.|
-|Sanksi|Kematian sebagai konsekuensi ketidaktaatan.|
+| Unsur                 | Penjelasan                                                             |
+| --------------------- | ---------------------------------------------------------------------- |
+| Pihak yang mengadakan | Allah dan Adam sebagai wakil manusia.                                  |
+| Tuntutan              | Ketaatan terhadap perintah Allah.                                      |
+| Larangan              | Tidak memakan buah pohon pengetahuan tentang yang baik dan yang jahat. |
+| Janji                 | Kehidupan sebagai konsekuensi ketaatan.                                |
+| Sanksi                | Kematian sebagai konsekuensi ketidaktaatan.                            |
 
-### c. Signifikansi perjanjian kerja
+### c. 🔵 Signifikansi perjanjian kerja
 
 Konsep ini memiliki arti penting dalam teologi Reformed karena menjelaskan:
 - Hubungan antara ketaatan dan kehidupan.
@@ -265,7 +268,7 @@ Berkhof menekankan bahwa dosa bukan sekadar tindakan pelanggaran individual, tet
 
 ## 1. Asal Mula Dosa (The Origin of Sin)
 
-### a. Pengertian asal mula dosa
+### a. 🔵 Pengertian asal mula dosa
 
 Dosa memasuki kehidupan manusia melalui pelanggaran Adam dan Hawa terhadap perintah Allah.
 
@@ -277,20 +280,16 @@ Peristiwa ini dikenal sebagai kejatuhan manusia (The Fall of Man).
 
 1. Pencobaan
 	- Manusia menghadapi godaan untuk meragukan firman Allah.
-
 2. Keraguan
 	- Manusia mulai mempertanyakan kebenaran dan otoritas Allah.
-
 3. Ketidaktaatan
 	- Manusia melanggar perintah Allah dengan memakan buah terlarang.
-
 4. Kejatuhan
 	- Dosa masuk ke dalam kehidupan manusia.
-
 5. Konsekuensi dosa
 	- Kematian, keterpisahan dari Allah, kerusakan moral, dan penderitaan.
 
-### c. Akibat kejatuhan manusia
+### c. 🔵 Akibat kejatuhan manusia
 
 Kejatuhan manusia menghasilkan beberapa konsekuensi:
 1. Kerusakan hubungan manusia dengan Allah.
@@ -304,7 +303,7 @@ Dasar Alkitab: Kejadian 3; Roma 5:12; Roma 6:23.
 ---
 ## 2. Karakter Esensial Dosa (The Essential Character of Sin)
 
-### a. Pengertian dosa
+### a. 🔵 Pengertian dosa
 
 Menurut Berkhof, dosa pada hakikatnya merupakan pelanggaran terhadap hukum Allah.
 
@@ -317,21 +316,23 @@ Dasar Alkitab:
 - Roma 3:23 – Semua manusia telah berbuat dosa.
 - Yakobus 4:17 – Mengetahui yang baik tetapi tidak melakukannya juga merupakan dosa.
 
-### b. Karakteristik dosa
+### b. 🔵 Karakteristik dosa
 
 Beberapa karakteristik dosa menurut kerangka pemikiran Berkhof:
 
 1. Dosa memiliki sifat moral dan rohani.
 	- Dosa berkaitan dengan hubungan manusia terhadap Allah, bukan sekadar perilaku yang dinilai buruk oleh masyarakat.
+	- 🧑‍🏫 Keberadaan dosa adalah salah satu hal yang menjelaskan *mengapa kejahatan ada di dunia*.
 
 2. Dosa merupakan pelanggaran terhadap hukum Allah.
 	- Allah adalah standar tertinggi kebenaran. Karena itu, dosa harus dipahami berdasarkan kehendak dan hukum-Nya.
+	- 🎓 apa saja hal yang tidak melanggar hukum negara, tapi kita menyebutnya itu dosa, dan mengapa.
 
 3. Dosa memiliki dimensi internal dan eksternal.
 	- Dosa tidak hanya muncul dalam tindakan, tetapi juga dalam pikiran, motivasi, keinginan, dan sikap hati manusia.
 
 4. Dosa bersifat universal.
-	- Tidak ada manusia yang sepenuhnya bebas dari dosa.
+	- Seluruh manusia tanpa terkecuali telah berada dalam kondisi berdosa dan berada di bawah pengaruh dosa. ([Roma 3:23](https://alkitab.sabda.org/passage.php?passage=roma%203:23), [Roma 5:12](https://alkitab.sabda.org/passage.php?passage=Roma%205:12))
 
 ### c. Dosa sebagai kondisi dan tindakan
 
@@ -396,7 +397,7 @@ Dosa bukan hanya peristiwa historis yang terjadi di Taman Eden. Dosa terus memen
 
 Berkhof membahas bagaimana dosa berkembang dan memanifestasikan dirinya dalam kehidupan manusia.
 
-### a. Dosa dalam kehidupan individu
+### a. 🔵 Dosa dalam kehidupan individu
 
 Dosa memengaruhi kehidupan manusia melalui:
 - Pikiran dan motivasi.
@@ -406,7 +407,7 @@ Dosa memengaruhi kehidupan manusia melalui:
 - Keputusan moral.
 - Hubungan dengan Allah.
 
-### b. Dosa dalam kehidupan sosial
+### b. 🔵 Dosa dalam kehidupan sosial
 
 Dosa juga memengaruhi kehidupan bersama.
 
@@ -418,7 +419,7 @@ Contohnya:
 5. Penindasan.
 6. Konflik antarmanusia.
 
-### c. Dosa dan tanggung jawab manusia
+### c. 🔵 Dosa dan tanggung jawab manusia
 
 Walaupun manusia memiliki natur berdosa, manusia tetap bertanggung jawab atas tindakan moralnya di hadapan Allah.
 
@@ -435,7 +436,7 @@ Hukuman dosa merupakan konsekuensi yang ditetapkan Allah terhadap pelanggaran ma
 
 Karena Allah adalah kudus dan adil, dosa tidak dapat dipandang sebagai persoalan yang tidak memiliki konsekuensi.
 
-### b. Bentuk hukuman dosa
+### b. 🔵 Bentuk hukuman dosa
 
 Berkhof menjelaskan konsekuensi dosa dalam beberapa dimensi.
 
@@ -466,18 +467,20 @@ Berkhof menempatkan pembahasan perjanjian anugerah dalam kerangka sejarah penebu
 
 ## 1. Istilah dan Konsep Anugerah (Grace)
 
-### a. Pengertian anugerah
+### a. 🔵Pengertian anugerah
 
 Anugerah (grace) adalah kebaikan dan kemurahan Allah yang diberikan kepada manusia bukan karena manusia layak menerimanya, melainkan berdasarkan kasih dan kehendak Allah.
 
-Dalam konteks keselamatan, anugerah menunjukkan bahwa manusia tidak dapat memperoleh keselamatan berdasarkan prestasi atau perbuatannya sendiri.
+‼️ Dalam konteks keselamatan, anugerah menunjukkan bahwa manusia tidak dapat memperoleh keselamatan berdasarkan prestasi atau perbuatannya sendiri.
 
 Dasar Alkitab:
 - Efesus 2:8–9.
 - Roma 3:24.
 - Titus 3:5.
 
-### b. Karakteristik anugerah Allah
+### b. 🔵 Karakteristik anugerah Allah
+
+Karakteristik anugerah Allah dalam konteks keselamatan
 
 1. Tidak berdasarkan kelayakan manusia.
 	- Manusia menerima keselamatan bukan karena jasa atau prestasinya.
@@ -571,11 +574,9 @@ Secara teologis, perjanjian ini memiliki dua dimensi penting:
 Pembedaan ini penting karena keanggotaan dalam komunitas perjanjian yang kelihatan tidak secara otomatis berarti setiap orang telah mengalami keselamatan secara pribadi.
 
 ---
-## 5. Dispensasi Berbeda dari Perjanjian Anugerah
+## 5. 🔵 Perjanjian Anugerah dalam Sejarah Keselamatan
 
-Berkhof juga menjelaskan bahwa perjanjian anugerah memiliki perkembangan dan bentuk penyataan yang berbeda sepanjang sejarah keselamatan.
-
-Dalam teologi Reformed, perjanjian anugerah dipahami sebagai satu kesatuan dalam berbagai tahap sejarah.
+Perjanjian anugerah memiliki perkembangan dan bentuk penyataan yang berbeda sepanjang sejarah keselamatan. Perjanjian anugerah dipahami sebagai satu kesatuan dalam berbagai tahap sejarah.
 
 Beberapa tahap penting yang dapat dipelajari:
 
@@ -588,7 +589,14 @@ Beberapa tahap penting yang dapat dipelajari:
 | Perjanjian Daud           | Allah menjanjikan keturunan dan kerajaan yang memiliki penggenapan mesianik.                      |
 | Perjanjian Baru           | Keselamatan dinyatakan melalui karya Kristus dan penggenapan janji Allah (Lukas 22:20; Ibrani 8). |
 
-Inti pembelajaran: Perjanjian anugerah menunjukkan kesinambungan rencana keselamatan Allah dalam sejarah. Semua tahap tersebut mengarah kepada penggenapan karya keselamatan di dalam Yesus Kristus.
+> 🧑‍🏫 Cerita yang tertulis dalam Alkitab itu bukan sekedar untuk menyampaikan pesan moral.
+
+Seluruh kisah dalam Alkitab menunjukkan kesinambungan rencana keselamatan Allah dalam sejarah. Semua tahap tersebut mengarah kepada penggenapan karya keselamatan di dalam Yesus Kristus.
+
+🎓 Bagaimana melihat kisah-kisah berikut dalam rencana kesalamatan Allah?
+- Kisah Israel keluar dari Mesir
+- Kisah para hakim (dalam kitab Hakim-hakim)
+- Kisah Ester 
 
 ---
 # E. Sintesis: Hubungan Tiga Keadaan Manusia dalam Teologi Berkhof
