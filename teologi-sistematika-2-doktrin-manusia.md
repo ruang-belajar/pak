@@ -274,8 +274,6 @@ Dosa memasuki kehidupan manusia melalui pelanggaran Adam dan Hawa terhadap perin
 
 Kejadian 3 menjelaskan bagaimana manusia tergoda oleh Iblis, meragukan firman Allah, dan akhirnya memilih untuk tidak menaati perintah-Nya.
 
-Peristiwa ini dikenal sebagai kejatuhan manusia (The Fall of Man).
-
 ### b. Proses kejatuhan manusia
 
 1. Pencobaan
@@ -305,11 +303,7 @@ Dasar Alkitab: Kejadian 3; Roma 5:12; Roma 6:23.
 
 ### a. 🔵 Pengertian dosa
 
-Menurut Berkhof, dosa pada hakikatnya merupakan pelanggaran terhadap hukum Allah.
-
-Dosa bukan sekadar kesalahan sosial, tindakan tidak bermoral, atau pelanggaran terhadap aturan manusia.
-
-Dosa adalah pemberontakan manusia terhadap otoritas dan kehendak Allah.
+Dosa pada hakikatnya merupakan pelanggaran terhadap hukum Allah. Dosa bukan sekadar kesalahan sosial, tindakan tidak bermoral, atau pelanggaran terhadap aturan manusia. Dosa adalah pemberontakan manusia terhadap otoritas dan kehendak Allah.
 
 Dasar Alkitab:
 - 1 Yohanes 3:4 – Dosa berhubungan dengan pelanggaran hukum.
@@ -456,7 +450,6 @@ Berkhof menjelaskan konsekuensi dosa dalam beberapa dimensi.
 	- Dosa membawa kerusakan dalam relasi manusia dengan sesamanya dan dengan lingkungan ciptaan.
 	- Dasar Alkitab: Kejadian 3:17–18; Roma 8:20–22.
 
-Kesimpulan Bagian II: Dosa telah merusak seluruh keberadaan manusia. Karena itu, manusia tidak dapat menyelamatkan dirinya sendiri melalui kemampuan, moralitas, atau perbuatan baiknya.
 
 ---
 # D. Bagian III – Manusia dalam Perjanjian Anugerah
@@ -472,6 +465,8 @@ Berkhof menempatkan pembahasan perjanjian anugerah dalam kerangka sejarah penebu
 Anugerah (grace) adalah kebaikan dan kemurahan Allah yang diberikan kepada manusia bukan karena manusia layak menerimanya, melainkan berdasarkan kasih dan kehendak Allah.
 
 ‼️ Dalam konteks keselamatan, anugerah menunjukkan bahwa manusia tidak dapat memperoleh keselamatan berdasarkan prestasi atau perbuatannya sendiri.
+
+🎓Armenianisme vs Calvinisme?
 
 Dasar Alkitab:
 - Efesus 2:8–9.
@@ -593,7 +588,7 @@ Beberapa tahap penting yang dapat dipelajari:
 
 Seluruh kisah dalam Alkitab menunjukkan kesinambungan rencana keselamatan Allah dalam sejarah. Semua tahap tersebut mengarah kepada penggenapan karya keselamatan di dalam Yesus Kristus.
 
-🎓 Bagaimana melihat kisah-kisah berikut dalam rencana kesalamatan Allah?
+🎓 Bagaimana melihat kisah-kisah berikut dalam rencana keselamatan Allah?
 - Kisah Israel keluar dari Mesir
 - Kisah para hakim (dalam kitab Hakim-hakim)
 - Kisah Ester 
